@@ -170,7 +170,7 @@
       <path fill="none" d="M-109.9369 1016.5006 L34.0631 1016.5006 L34.0631 1056.5006 L-109.9369 1056.5006 Z" clip-path="url(#clipPath2)"/>
       <text x="-68.8481" xml:space="preserve" y="1040.6549" clip-path="url(#clipPath2)" font-family="sans-serif" stroke="none">C0242262</text>
     </g>
-    <g stroke-linecap="butt" transform="matrix(1,0,0,1,281,-479)" fill="green" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" stroke="green" stroke-miterlimit="1.45">
+    <g stroke-linecap="butt" transform="matrix(1,0,0,1,281,-479)" fill="red" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" stroke="red" stroke-miterlimit="1.45">
       <path fill="none" d="M-36.8934 843.7407 L-37.1059 838.6498 L-38.3012 833.8122 L-40.3818 829.3757 L-43.252 825.4482 L-46.816 822.1373 L-50.9779 819.5508 L-55.6421 817.7966 L-60.7126 816.9824 L-65.8436 817.1966 L-70.6812 818.3918 L-75.1177 820.4725 L-79.0453 823.3427 L-82.3561 826.9067 L-84.9426 831.0686 L-86.6968 835.7327 L-87.511 840.8033 L-87.2968 845.9343 L-86.1016 850.7719 L-84.0209 855.2084 L-81.1507 859.1359 L-79.242 860.9091 L-79.1555 860.9593" clip-path="url(#clipPath2)"/>
       <path d="M-72.5037 865.4038 L-79.7035 854.5797 L-79.987 860.4037 L-85.2592 862.8943 Z" clip-path="url(#clipPath2)" stroke="none"/>
       <text x="-204.7741" font-size="16px" y="813.5861" clip-path="url(#clipPath2)" font-family="sans-serif" stroke="none" font-weight="bold" xml:space="preserve">meta:def/mappingSameURI</text>
@@ -232,7 +232,7 @@
       <rect x="575.8655" y="755.8106" clip-path="url(#clipPath2)" fill="rgb(162,166,172)" width="374.0433" height="1" stroke="none"/>
       <rect x="948.9088" y="695.5606" clip-path="url(#clipPath2)" fill="rgb(162,166,172)" width="1" height="60.25" stroke="none"/>
     </g>
-    <g stroke-linecap="butt" transform="matrix(1,0,0,1,281,-479)" fill="green" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" stroke="green" stroke-miterlimit="1.45">
+    <g stroke-linecap="butt" transform="matrix(1,0,0,1,281,-479)" fill="red" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" stroke="red" stroke-miterlimit="1.45">
       <path fill="none" d="M305.7822 875.0331 L723.4095 875.0331 L1155.3169 761.3189" clip-path="url(#clipPath2)"/>
       <path d="M1163.0532 759.282 L1150.1757 757.5021 L1154.3499 761.5735 L1152.7217 767.1725 Z" clip-path="url(#clipPath2)" stroke="none"/>
       <text x="482.5027" font-size="16px" y="870.1091" clip-path="url(#clipPath2)" font-family="sans-serif" stroke="none" font-weight="bold" xml:space="preserve">meta:def/mappingRest</text>
@@ -317,10 +317,10 @@
       <text x="1798.1541" xml:space="preserve" y="1103.4146" clip-path="url(#clipPath2)" stroke="none">external_uri</text>
       <text x="1791.4304" xml:space="preserve" y="1117.3833" clip-path="url(#clipPath2)" stroke="none">interportal_uri</text>
       <ellipse rx="187.5216" fill="none" ry="30.625" clip-path="url(#clipPath2)" cx="1833.9899" cy="1106.2446"/>
-      <path fill="none" d="M1791.2139 1076.427 L1355.277 772.5525" clip-path="url(#clipPath2)" stroke="green"/>
-      <path fill="green" d="M1348.7141 767.9778 L1355.6992 778.9417 L1356.0974 773.1244 L1361.4177 770.7381 Z" clip-path="url(#clipPath2)" stroke="none"/>
+      <path fill="none" d="M1791.2139 1076.427 L1355.277 772.5525" clip-path="url(#clipPath2)" stroke="red"/>
+      <path fill="red" d="M1348.7141 767.9778 L1355.6992 778.9417 L1356.0974 773.1244 L1361.4177 770.7381 Z" clip-path="url(#clipPath2)" stroke="none"/>
     </g>
-    <g stroke-linecap="butt" font-size="16px" transform="matrix(1,0,0,1,281,-479)" fill="green" text-rendering="geometricPrecision" font-family="sans-serif" shape-rendering="geometricPrecision" stroke="green" font-weight="bold" stroke-miterlimit="1.45">
+    <g stroke-linecap="butt" font-size="16px" transform="matrix(1,0,0,1,281,-479)" fill="red" text-rendering="geometricPrecision" font-family="sans-serif" shape-rendering="geometricPrecision" stroke="red" font-weight="bold" stroke-miterlimit="1.45">
       <text x="1443.1161" xml:space="preserve" y="900.9693" clip-path="url(#clipPath2)" stroke="none">meta:def/mappingRest</text>
     </g>
     <g transform="matrix(1,0,0,1,281,-479)" fill-opacity="0.502" fill="rgb(202,236,255)" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" stroke="rgb(202,236,255)" stroke-opacity="0.502">
