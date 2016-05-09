@@ -1,0 +1,26 @@
+version: '2'
+services:
+  4store:
+    image: vemonet/bioportal-4store
+    ports: 
+      - "9000:9000"
+  mgrep:
+    image: vemonet/bioportal-mgrep
+    ports: 
+      - "55555:55555"
+  solr:
+    image: vemonet/bioportal-solr
+    ports: 
+      - "8983:8983"
+  redis_annotator:
+    image: redis:3.0.7-alpine
+    ports: 
+      - "6379:6379"
+  redis_http:
+    image: redis:3.0.7-alpine
+    ports: 
+      - "6380:6379"
+  redis_goo:
+    image: redis:3.0.7-alpine
+    ports: 
+      - "6381:6379"

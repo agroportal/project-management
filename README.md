@@ -9,3 +9,4 @@ See the [Wiki](https://github.com/agroportal/documentation/wiki)
     * To properly display source code on your MediaWiki: install the [SyntaxHighlighter extension](https://www.mediawiki.org/wiki/Extension:SyntaxHighlighter)
 
 * To generate Index on Markdown files: [github-markdown-toc](https://github.com/ekalinin/github-markdown-toc)
+
