@@ -1,0 +1,515 @@
+<!--?xml version="1.0" encoding="UTF-8"?-->
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN" "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xml:lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcmi="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:void="http://rdfs.org/ns/void#">
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<link rel="stylesheet" type="text/css" href="Metadata%20for%20AgroPortal_fichiers/agro.css">
+  <title>AgroPortal Metadata</title>
+    <style type="text/css">
+* {
+	margin: 0;
+	padding: 0;
+}
+    </style>
+</head>
+
+
+
+<body>
+
+<h1 about="" property="dcterms:title" xml:lang="en">Metadata for AgroPortal : Complete and Simplified List</h1>
+<h3 property="dcterms:time" xml:lang="en">Specification Document June 2016 </h3>
+
+
+<div about="" typeof="foaf:Document">
+	<div property="rdfs:label" content="Metadata for AgroPortal" xml:lang="en"></div>
+	<div property="dcterms:title" content="Metadata for AgroPortal" xml:lang="en"></div>
+	<div property="dcterms:created" content="2016-07-01" datatype="xsd:dateTime"></div>
+</div>
+ 
+<br>
+<p>For any queries, <b> contact us </b> at <b>{toulet, jonquet, emonet}@lirmm.fr</b>
+<br>
+</p>
+<div>
+<h2 id="sec-abstract">Abstract</h2>
+<br>
+This specification describes the complete list of metadata that can be supported in <a href="http://agroportal.lirmm.fr/">AgroPortal</a>, the ontology repository for agronomy.
+<br>
+This list is consisted of properties we picked up in 21 vocabularies.
+<br>
+We also present a simplified model that is implemented in AgroPortal and allows the management of any property outcome of our complete list.
+</p>
+</div>
+
+<h2 id="sec-toc">Table of contents</h2>
+<br>
+<ol>
+  <li><a href="#sec-vocab" style="color: #008500;">Vocabularies used</a></li>
+  <li><a href="#sec-complete" style="color: #008500;">Complete List</a></li>
+  <li><a href="#sec-simplified" style="color: #008500;">Simplified List</a></li>
+</ol>
+
+<h2 id="sec-vocab">1. Vocabularies used</h2>
+<br>
+Scientific communities are using an increasing number of ontologies. Repositories
+enable to make them available. Now the question is how to find the ontology we need ? One solution is
+to describe each ontology with appropriate metadata. However, none of the existing metadata
+vocabularies can completely meet this need if taken independently. Based on our experience
+with the NCBO BioPortal, we have reviewed a large number of vocabularies, like Dublin
+Core, OMV, DCAT, VOID, etc.
+
+<br> 
+
+<p>The following are the prefixes and XML Namespaces for the external metadata vocabularies used in our list.</p> 
+
+<br> 
+<b>rdfs</b>: http://www.w3.org/2000/01/rdf-schema# <br>
+<b>owl</b>: http://www.w3.org/2002/07/owl# <br>
+<b>skos</b>: http://www.w3.org/2004/02/skos/core# <br>
+<b>dc</b>: http://purl.org/dc/elements/1.1/ <br>
+<b>dcterms</b>: http://purl.org/dc/terms/ <br>
+<b>omv</b>: http://omv.ontoware.org/2005/05/ontology# <br>
+<b>mod</b>: http://www.isibang.ac.in/ns/mod# <br>
+<b>door</b>: http://kannel.open.ac.uk/ontology# <br>
+<b>voaf</b>: http://purl.org/vocommons/voaf# <br>
+<b>void</b>: http://rdfs.org/ns/void# <br>
+<b>idot</b>: http://identifiers.org/idot/ <br>
+<b>vann</b>: http://purl.org/vocab/vann/ <br>
+<b>dcat</b>: http://www.w3.org/ns/dcat# <br>
+<b>adms</b>: http://www.w3.org/ns/adms# <br>
+<b>schema</b>: http://schema.org/ <br>
+<b>foaf</b>: http://xmlns.com/foaf/0.1/<br>  
+<b>doap</b>: http://usefulinc.com/ns/doap# <br>
+<b>cc</b>:> http://creativecommons.org/ns# <br>
+<b>prov</b>: http://www.w3.org/ns/prov# <br>
+<b>pav</b>: http://purl.org/pav/ <br>
+<b>oboInOwl</b>: http://www.geneontology.org/formats/oboInOwl# <br>
+<b>sd</b>: http://www.w3.org/ns/sparql-service-description# <br>
+<b>cito</b>: http://purl.org/spar/cito/ <br>
+
+We use the prefix "bpm" for properties which are coming from the <a href="http://bioportal.bioontology.org/">NCBO BioPortal</a>.
+
+<div class="complete">
+<h2 id="sec-complete">2. Complete List </h2>
+<br>
+<p>Here is the complete list of selected properties which might be used to describe an ontology.</p>
+<br>
+<div style="padding: 5px; border: dotted; background-color: #E0ECF8;">
+
+<p><b>rdfs</b>:
+<a href="https://www.w3.org/TR/rdf-schema/#ch_sumproperties">comment</a> | 
+<a href="https://www.w3.org/TR/rdf-schema/#ch_sumproperties">label</a> | 
+<a href="https://www.w3.org/TR/rdf-schema/#ch_sumproperties">seeAlso</a>
+</p>
+
+<p><b>owl</b>:
+<a href="https://www.w3.org/TR/owl2-quick-reference/#Annotations">backwardCompatibleWith</a> |
+<a href="https://www.w3.org/TR/owl2-quick-reference/#Annotations">deprecated</a> |
+<a href="https://www.w3.org/TR/owl2-quick-reference/#Annotations">imports</a> |
+<a href="https://www.w3.org/TR/owl2-quick-reference/#Annotations">incompatibleWith</a> |
+<a href="https://www.w3.org/TR/owl2-quick-reference/#Annotations">priorVersion</a> |
+<a href="https://www.w3.org/TR/owl2-quick-reference/#Annotations">versionInfo</a> | 
+<a href="https://www.w3.org/TR/owl2-quick-reference/#Annotations">versionIRI</a>
+</p>
+
+<p><b>skos</b> : 
+<a href="https://www.w3.org/TR/2008/WD-skos-reference-20080829/skos.html#altLabel">altLabel</a> |
+<a href="https://www.w3.org/TR/2008/WD-skos-reference-20080829/skos.html#hasTopConcept">hasTopConcept</a> |
+<a href="https://www.w3.org/TR/2008/WD-skos-reference-20080829/skos.html#hiddenLabel">hiddenLabel</a> |
+<a href="https://www.w3.org/TR/2008/WD-skos-reference-20080829/skos.html#notation">notation</a> |
+<a href="https://www.w3.org/TR/2008/WD-skos-reference-20080829/skos.html#prefLabel">prefLabel</a>
+</p>
+
+<p><b>dc</b> : 
+<a href="http://dublincore.org/documents/2012/06/14/dcmi-terms/?v=elements#elements-contributor">contributor</a> |
+<a href="http://dublincore.org/documents/2012/06/14/dcmi-terms/?v=elements#elements-coverage">coverage</a> |
+<a href="http://dublincore.org/documents/2012/06/14/dcmi-terms/?v=elements#elements-creator">creator</a> |
+<a href="http://dublincore.org/documents/2012/06/14/dcmi-terms/?v=elements#elements-date">date</a> |
+<a href="http://dublincore.org/documents/2012/06/14/dcmi-terms/?v=elements#elements-description">description</a> |
+<a href="http://dublincore.org/documents/2012/06/14/dcmi-terms/?v=elements#elements-format">format</a> |
+<a href="http://dublincore.org/documents/2012/06/14/dcmi-terms/?v=elements#elements-identifier">identifier</a> |
+<a href="http://dublincore.org/documents/2012/06/14/dcmi-terms/?v=elements#elements-language">language</a> |
+<a href="http://dublincore.org/documents/2012/06/14/dcmi-terms/?v=elements#elements-publisher">publisher</a> |
+<a href="http://dublincore.org/documents/2012/06/14/dcmi-terms/?v=elements#elements-relation">relation</a> |
+<a href="http://dublincore.org/documents/2012/06/14/dcmi-terms/?v=elements#elements-rights">rights</a> |
+<a href="http://dublincore.org/documents/2012/06/14/dcmi-terms/?v=elements#elements-source">source</a> |
+<a href="http://dublincore.org/documents/2012/06/14/dcmi-terms/?v=elements#elements-subject">subject</a> |
+<a href="http://dublincore.org/documents/2012/06/14/dcmi-terms/?v=elements#elements-title">title</a> |
+<a href="http://dublincore.org/documents/2012/06/14/dcmi-terms/?v=elements#elements-type">type</a>
+</p>
+
+<p><b>dcterms</b> : 
+<a href="http://dublincore.org/documents/2012/06/14/dcmi-terms/?v=elements#terms-abstract">abstract</a> |
+<a href="http://dublincore.org/documents/2012/06/14/dcmi-terms/?v=elements#terms-accessRights">accessRights</a> |
+<a href="http://dublincore.org/documents/2012/06/14/dcmi-terms/?v=elements#terms-accrualMethod">accrualMethod</a> |
+<a href="http://dublincore.org/documents/2012/06/14/dcmi-terms/?v=elements#terms-accrualPeriodicity">accrualPeriodicity</a> |
+<a href="http://dublincore.org/documents/2012/06/14/dcmi-terms/?v=elements#terms-accrualPolicy">accrualPolicy</a> |
+<a href="http://dublincore.org/documents/2012/06/14/dcmi-terms/?v=elements#terms-alternative">alternative</a> |
+<a href="http://dublincore.org/documents/2012/06/14/dcmi-terms/?v=elements#terms-audience">audience</a> |
+<a href="http://dublincore.org/documents/2012/06/14/dcmi-terms/?v=elements#terms-bibliographicCitation">bibliographicCitation</a> |
+<a href="http://dublincore.org/documents/2012/06/14/dcmi-terms/?v=elements#terms-conformsTo">conformsTo</a> |
+<a href="http://dublincore.org/documents/2012/06/14/dcmi-terms/?v=elements#terms-contributor">contributor</a> |
+<a href="http://dublincore.org/documents/2012/06/14/dcmi-terms/?v=elements#terms-coverage">coverage</a> |
+<a href="http://dublincore.org/documents/2012/06/14/dcmi-terms/?v=elements#terms-created">created</a> |
+<a href="http://dublincore.org/documents/2012/06/14/dcmi-terms/?v=elements#terms-creator">creator</a> |
+<a href="http://dublincore.org/documents/2012/06/14/dcmi-terms/?v=elements#terms-dateSubmitted">dateSubmitted</a> |
+<a href="http://dublincore.org/documents/2012/06/14/dcmi-terms/?v=elements#terms-description">description</a> |
+<a href="http://dublincore.org/documents/2012/06/14/dcmi-terms/?v=elements#terms-format">format</a> |
+<a href="http://dublincore.org/documents/2012/06/14/dcmi-terms/?v=elements#terms-hasFormat">hasFormat</a> |
+<a href="http://dublincore.org/documents/2012/06/14/dcmi-terms/?v=elements#terms-hasPart">hasPart</a> |
+<a href="http://dublincore.org/documents/2012/06/14/dcmi-terms/?v=elements#terms-hasVersion">hasVersion</a> |
+<a href="http://dublincore.org/documents/2012/06/14/dcmi-terms/?v=elements#terms-identifier">identifier</a> |
+<a href="http://dublincore.org/documents/2012/06/14/dcmi-terms/?v=elements#terms-isFormatOf">isFormatOf</a> |
+<a href="http://dublincore.org/documents/2012/06/14/dcmi-terms/?v=elements#terms-isPartOf">isPartOf</a> |
+<a href="http://dublincore.org/documents/2012/06/14/dcmi-terms/?v=elements#terms-isVersionOf">isVersionOf</a> |
+<a href="http://dublincore.org/documents/2012/06/14/dcmi-terms/?v=elements#terms-language">language</a> |
+<a href="http://dublincore.org/documents/2012/06/14/dcmi-terms/?v=elements#terms-modified">modified</a> |
+<a href="http://dublincore.org/documents/2012/06/14/dcmi-terms/?v=elements#terms-publisher">publisher</a> |
+<a href="http://dublincore.org/documents/2012/06/14/dcmi-terms/?v=elements#terms-relation">relation</a> |
+<a href="http://dublincore.org/documents/2012/06/14/dcmi-terms/?v=elements#terms-requires">requires</a> |
+<a href="http://dublincore.org/documents/2012/06/14/dcmi-terms/?v=elements#terms-rights">rights</a> |
+<a href="http://dublincore.org/documents/2012/06/14/dcmi-terms/?v=elements#terms-rightsHolder">rightsHolder</a> |
+<a href="http://dublincore.org/documents/2012/06/14/dcmi-terms/?v=elements#terms-source">source</a> |
+<a href="http://dublincore.org/documents/2012/06/14/dcmi-terms/?v=elements#terms-subject">subject</a> |
+<a href="http://dublincore.org/documents/2012/06/14/dcmi-terms/?v=elements#terms-title">title</a> |
+<a href="http://dublincore.org/documents/2012/06/14/dcmi-terms/?v=elements#terms-type">type</a> |
+<a href="http://dublincore.org/documents/2012/06/14/dcmi-terms/?v=elements#terms-valid">valid</a>
+</p>
+
+<p><b>omv</b> : 
+<a href="http://omv2.sourceforge.net/description.html">acronym</a> |
+<a href="http://omv2.sourceforge.net/description.html">creationDate</a> |
+<a href="http://omv2.sourceforge.net/description.html">conformsToKnowledgeRepresentationParadigm</a> |
+<a href="http://omv2.sourceforge.net/description.html">description</a> |
+<a href="http://omv2.sourceforge.net/description.html">designedForOntologyTask</a> |
+<a href="http://omv2.sourceforge.net/description.html">documentation</a> |
+<a href="http://omv2.sourceforge.net/description.html">endorsedBy</a> |
+<a href="http://omv2.sourceforge.net/description.html">hasContributor</a> |
+<a href="http://omv2.sourceforge.net/description.html">hasCreator</a> |
+<a href="http://omv2.sourceforge.net/description.html">hasDomain</a> |
+<a href="http://omv2.sourceforge.net/description.html">hasFormalityLevel</a> |
+<a href="http://omv2.sourceforge.net/description.html">hasLicense</a> |
+<a href="http://omv2.sourceforge.net/description.html">hasOntologyLanguage</a> |
+<a href="http://omv2.sourceforge.net/description.html">hasOntologySyntax</a> |
+<a href="http://omv2.sourceforge.net/description.html">hasPriorVersion</a> |
+<a href="http://omv2.sourceforge.net/description.html">isBackwardCompatibleWith</a> |
+<a href="http://omv2.sourceforge.net/description.html">isIncompatibleWith</a> | 
+<a href="http://omv2.sourceforge.net/description.html">isOfType</a> |
+<a href="http://omv2.sourceforge.net/description.html">keyClasses</a> |
+<a href="http://omv2.sourceforge.net/description.html">keywords</a> |
+<a href="http://omv2.sourceforge.net/description.html">knownUsage</a> |
+<a href="http://omv2.sourceforge.net/description.html">modificationDate</a> |
+<a href="http://omv2.sourceforge.net/description.html">name</a> |
+<a href="http://omv2.sourceforge.net/description.html">naturalLanguage</a> |
+<a href="http://omv2.sourceforge.net/description.html">notes</a> |
+<a href="http://omv2.sourceforge.net/description.html">numberOfAxioms</a> |
+<a href="http://omv2.sourceforge.net/description.html">numberOfClasses</a> |
+<a href="http://omv2.sourceforge.net/description.html">numberOfIndividuals</a> |
+<a href="http://omv2.sourceforge.net/description.html">numberOfProperties</a> |
+<a href="http://omv2.sourceforge.net/description.html">reference</a> |
+<a href="http://omv2.sourceforge.net/description.html">resourceLocator</a> |
+<a href="http://omv2.sourceforge.net/description.html">status</a> |
+<a href="http://omv2.sourceforge.net/description.html">URI</a> |
+<a href="http://omv2.sourceforge.net/description.html">usedOntologyEngineeringMethodology</a> |
+<a href="http://omv2.sourceforge.net/description.html">usedOntologyEngineeringTool</a> |
+<a href="http://omv2.sourceforge.net/description.html">useImports</a> |
+<a href="http://omv2.sourceforge.net/description.html">version</a>
+</p>
+
+<p><b>mod</b> : 
+<a href="http://www.isibang.ac.in/ns/mod.html#module">accessibility</a> |
+<a href="http://www.isibang.ac.in/ns/mod.html#acronym">acronym</a> |
+<a href="http://www.isibang.ac.in/ns/mod.html#competencyQuestion">competencyQuestion</a> |
+<a href="http://www.isibang.ac.in/ns/mod.html#creationDate">creationDate</a> |
+<a href="http://www.isibang.ac.in/ns/mod.html#document">document</a> |
+<a href="http://www.isibang.ac.in/ns/mod.html#endorsedBy">endorsedBy</a> |
+<a href="http://www.isibang.ac.in/ns/mod.html#formalityLevel">formalityLevel</a> |
+<a href="http://www.isibang.ac.in/ns/mod.html#homepage">homepage</a> |
+<a href="http://www.isibang.ac.in/ns/mod.html#keyword">keyword</a> |
+<a href="http://www.isibang.ac.in/ns/mod.html#KnowledgeRepresentationFormalism">KnowledgeRepresentationFormalism</a> |
+<a href="http://www.isibang.ac.in/ns/mod.html#methodologyUsed">methodologyUsed</a> |
+<a href="http://www.isibang.ac.in/ns/mod.html#module">module</a> |
+<a href="http://www.isibang.ac.in/ns/mod.html#noOfAxioms">noOfAxioms</a> |
+<a href="http://www.isibang.ac.in/ns/mod.html#noOfClasses">noOfClasses</a> |
+<a href="http://www.isibang.ac.in/ns/mod.html#noOfIndividuals">noOfIndividuals</a> |
+<a href="http://www.isibang.ac.in/ns/mod.html#noOfProperties">noOfProperties</a> |
+<a href="http://www.isibang.ac.in/ns/mod.html#ontologyInUse">ontologyInUse</a> |
+<a href="http://www.isibang.ac.in/ns/mod.html#ontologyDesignLanguage">ontologyDesignLanguage</a> |
+<a href="http://www.isibang.ac.in/ns/mod.html#sponsoredBy">sponsoredBy</a> |
+<a href="http://www.isibang.ac.in/ns/mod.html#syntax">syntax</a> |
+<a href="http://www.isibang.ac.in/ns/mod.html#toolUsed">toolUsed</a> |
+<a href="http://www.isibang.ac.in/ns/mod.html#version">version</a> |
+<a href="http://www.isibang.ac.in/ns/mod.html#vocabularyUsed">vocabularyUsed</a>
+</p>
+
+<p><b>door</b> :
+<a href="http://oro.open.ac.uk/24326/1/keod09.pdf">backwardCompatibleWith</a> | 
+<a href="http://oro.open.ac.uk/24326/1/keod09.pdf">comesFromTheSameDomain</a> | 
+<a href="http://oro.open.ac.uk/24326/1/keod09.pdf">hasDisparateModelling</a> | 
+<a href="http://oro.open.ac.uk/24326/1/keod09.pdf">explanationEvolution</a> | 
+<a href="http://oro.open.ac.uk/24326/1/keod09.pdf">imports</a> | 
+<a href="http://oro.open.ac.uk/24326/1/keod09.pdf">isAlignedTo</a> | 
+<a href="http://oro.open.ac.uk/24326/1/keod09.pdf">ontologyRelatedTo</a> | 
+<a href="http://oro.open.ac.uk/24326/1/keod09.pdf">owlIncompatibleWith</a> | 
+<a href="http://oro.open.ac.uk/24326/1/keod09.pdf">priorVersion</a> | 
+<a href="http://oro.open.ac.uk/24326/1/keod09.pdf">semanticallyIncludedIn</a> | 
+<a href="http://oro.open.ac.uk/24326/1/keod09.pdf">similarTo</a>
+</p>
+
+<p><b>voaf</b> : 
+<a href="http://lov.okfn.org/vocommons/voaf/v2.3/#classNumber">classNumber</a> |
+<a href="http://lov.okfn.org/vocommons/voaf/v2.3/#extends">extends</a> |
+<a href="http://lov.okfn.org/vocommons/voaf/v2.3/#generalizes">generalizes</a> |
+<a href="http://lov.okfn.org/vocommons/voaf/v2.3/#hasDisjunctionsWith">hasDisjunctionsWith</a> |
+<a href="http://lov.okfn.org/vocommons/voaf/v2.3/#hasEquivalencesWith">hasEquivalencesWith</a> |
+<a href="http://lov.okfn.org/vocommons/voaf/v2.3/#metadataVoc">metadataVoc</a> |
+<a href="http://lov.okfn.org/vocommons/voaf/v2.3/#propertyNumber">propertyNumber</a> |
+<a href="http://lov.okfn.org/vocommons/voaf/v2.3/#reliesOn">reliesOn</a> |
+<a href="http://lov.okfn.org/vocommons/voaf/v2.3/#similar">similar</a> |
+<a href="http://lov.okfn.org/vocommons/voaf/v2.3/#specializes">specializes</a> |
+<a href="http://lov.okfn.org/vocommons/voaf/v2.3/#toDoList">toDoList</a> |
+<a href="http://lov.okfn.org/vocommons/voaf/v2.3/#usedBy">usedBy</a>
+</p>
+
+<p><b>void</b> : 
+<a href="http://vocab.deri.ie/void#classes">classes</a> |
+<a href="http://vocab.deri.ie/void#classPartition">classPartition</a> |
+<a href="http://vocab.deri.ie/void#dataDump">dataDump</a> |
+<a href="http://vocab.deri.ie/void#entities">entities</a> |
+<a href="http://vocab.deri.ie/void#exampleResource">exampleResource</a> |
+<a href="http://vocab.deri.ie/void#openSearchDescription">openSearchDescription</a> |
+<a href="http://vocab.deri.ie/void#properties">properties</a> |
+<a href="http://vocab.deri.ie/void#propertyPartition">propertyPartition</a> |
+<a href="http://vocab.deri.ie/void#rootResource">rootResource</a> |
+<a href="http://vocab.deri.ie/void#sparqlEndpoint">sparqlEndpoint</a> |
+<a href="http://vocab.deri.ie/void#subset">subset</a> |
+<a href="http://vocab.deri.ie/void#triples">triples</a> |
+<a href="http://vocab.deri.ie/void#uriLookupEndpoint">uriLookupEndpoint</a> |
+<a href="http://vocab.deri.ie/void#uriRegexPattern">uriRegexPattern</a> |
+<a href="http://vocab.deri.ie/void#uriSpace">uriSpace</a> |
+<a href="http://vocab.deri.ie/void#vocabulary">vocabulary</a>
+</p>
+
+<p><b>idot</b> : 
+<a href="http://biomodels.net/vocab/idot.rdf#alternatePrefix">alternatePrefix</a> |
+<a href="http://biomodels.net/vocab/idot.rdf#exampleIdentifier">exampleIdentifier</a> |
+<a href="http://biomodels.net/vocab/idot.rdf#identifierPattern">identifierPattern</a> |
+<a href="http://biomodels.net/vocab/idot.rdf#obsolete">obsolete</a> |
+<a href="http://biomodels.net/vocab/idot.rdf#preferredPrefix">preferredPrefix</a> |
+<a href="http://biomodels.net/vocab/idot.rdf#state">state</a>
+</p>
+
+<p><b>vann</b> : 
+<a href="http://vocab.org/vann/#changes">changes</a> |
+<a href="http://vocab.org/vann/#example">example</a> |
+<a href="http://vocab.org/vann/#preferredNamespacePrefix">preferredNamespacePrefix</a> |
+<a href="http://vocab.org/vann/#preferredNamespaceUri">preferredNamespaceUri</a> |
+<a href="http://vocab.org/vann/#usageNote">usageNote</a>
+</p>
+
+
+<p><b>dcat</b> : 
+<a href="https://www.w3.org/TR/vocab-dcat/#Property:dataset_keyword">keyword</a> |
+<a href="https://www.w3.org/TR/vocab-dcat/#Property:dataset_theme">theme</a> |
+<a href="https://www.w3.org/TR/vocab-dcat/#Property:dataset_contactPoint">contactPoint</a> |
+<a href="https://www.w3.org/TR/vocab-dcat/#Property:dataset_landingpage">landingPage</a>
+</p>
+
+<p><b>adms</b> : 
+<a href="https://www.w3.org/TR/vocab-adms/#adms_identifier">identifier</a> |
+<a href="https://www.w3.org/TR/vocab-adms/#adms_prev">prev</a> |
+<a href="https://www.w3.org/TR/vocab-adms/#adms_representationTechnique">representationTechnique</a> |
+<a href="https://www.w3.org/TR/vocab-adms/#adms_sample">sample</a> |
+<a href="https://www.w3.org/TR/vocab-adms/#adms_schemaAgency">schemaAgency</a> |
+<a href="https://www.w3.org/TR/vocab-adms/#adms_status">status</a> |
+<a href="https://www.w3.org/TR/vocab-adms/#adms_supportedSchema">supportedSchema</a> |
+<a href="https://www.w3.org/TR/vocab-adms/#adms_translation">translation</a> |
+<a href="https://www.w3.org/TR/vocab-adms/#adms_versionNotes">versionNotes</a>
+</p>
+
+<p><b>schema</b> : 
+<a href="https://schema.org/about">about</a> |
+<a href="https://schema.org/alternateName">alternateName</a> |
+<a href="https://schema.org/alternativeHeadline">alternativeHeadline</a> |
+<a href="https://schema.org/associatedMedia">associatedMedia</a> |
+<a href="https://schema.org/audience">audience</a> |
+<a href="https://schema.org/award">award</a> |
+<a href="https://schema.org/citation">citation</a> |
+<a href="https://schema.org/comments">comments</a> |
+<a href="https://schema.org/contributor">contributor</a> |
+<a href="https://schema.org/copyrightHolder">copyrightHolder</a> |
+<a href="https://schema.org/creator">creator</a> |
+<a href="https://schema.org/dateCreated">dateCreated</a> |
+<a href="https://schema.org/dateModified">dateModified</a> |
+<a href="https://schema.org/datePublished">datePublished</a> |
+<a href="https://schema.org/description">description</a> |
+<a href="https://schema.org/distribution">distribution</a> |
+<a href="https://schema.org/endDate">endDate</a> |
+<a href="https://schema.org/fileFormat">fileFormat</a> |
+<a href="https://schema.org/hasPart">hasPart</a> |
+<a href="https://schema.org/image">image</a> |
+<a href="https://schema.org/includedInDataCatalog">includedInDataCatalog</a> |
+<a href="https://schema.org/inLanguage">inLanguage</a> |
+<a href="https://schema.org/isBasedOn">isBasedOn</a> |
+<a href="https://schema.org/isPartOf">isPartOf</a> |
+<a href="https://schema.org/keywords">keywords</a> |
+<a href="https://schema.org/license">license</a> |
+<a href="https://schema.org/logo">logo</a> |
+<a href="https://schema.org/mainEntity">mainEntity</a> |
+<a href="https://schema.org/mainEntityOfPage">mainEntityOfPage</a> |
+<a href="https://schema.org/name">name</a> |
+<a href="https://schema.org/publisher">publisher</a> |
+<a href="https://schema.org/publishingPrinciples">publishingPrinciples</a> |
+<a href="https://schema.org/review">review</a> |
+<a href="https://schema.org/schemaVersion">schemaVersion</a> |
+<a href="https://schema.org/sourceOrganization">sourceOrganization</a> |
+<a href="https://schema.org/spatial">spatial</a> |
+<a href="https://schema.org/translationOfWork">translationOfWork</a> |
+<a href="https://schema.org/translator">translator</a> |
+<a href="https://schema.org/url">url</a> |
+<a href="https://schema.org/version">version</a> |
+<a href="https://schema.org/workExample">workExample</a> | 
+<a href="https://schema.org/workTranslation">workTranslation</a>
+</p>
+
+<p><b>foaf</b> : 
+<a href="http://xmlns.com/foaf/spec/#term_depiction">depiction</a> |
+<a href="http://xmlns.com/foaf/spec/#term_fundedBy">fundedBy</a> |
+<a href="http://xmlns.com/foaf/spec/#term_homepage">homepage</a> |
+<a href="http://xmlns.com/foaf/spec/#term_isPrimaryTopicOf">isPrimaryTopicOf</a> |
+<a href="http://xmlns.com/foaf/spec/#term_logo">logo</a> |
+<a href="http://xmlns.com/foaf/spec/#term_maker">maker</a> |
+<a href="http://xmlns.com/foaf/spec/#term_name">name</a> |
+<a href="http://xmlns.com/foaf/spec/#term_page">page</a> |
+<a href="http://xmlns.com/foaf/spec/#term_primaryTopic">primaryTopic</a> |
+<a href="http://xmlns.com/foaf/spec/#term_topic">topic</a>
+</p>
+
+<p><b>doap</b> : 
+<a href="https://github.com/edumbill/doap/wiki">audience</a> |
+<a href="https://github.com/edumbill/doap/wiki">blog</a> |
+<a href="https://github.com/edumbill/doap/wiki">bug-database</a> |
+<a href="https://github.com/edumbill/doap/wiki">created</a> |
+<a href="https://github.com/edumbill/doap/wiki">description</a> |
+<a href="https://github.com/edumbill/doap/wiki">download-mirror</a> |
+<a href="https://github.com/edumbill/doap/wiki">download-page</a> |
+<a href="https://github.com/edumbill/doap/wiki">helper</a> |
+<a href="https://github.com/edumbill/doap/wiki">language</a> |
+<a href="https://github.com/edumbill/doap/wiki">maintainer</a> |
+<a href="https://github.com/edumbill/doap/wiki">mailing-list</a> |
+<a href="https://github.com/edumbill/doap/wiki">name</a> |
+<a href="https://github.com/edumbill/doap/wiki">release</a> |
+<a href="https://github.com/edumbill/doap/wiki">repository</a> |
+<a href="https://github.com/edumbill/doap/wiki">screenshots</a> |
+<a href="https://github.com/edumbill/doap/wiki">service-endpoint</a> |
+<a href="https://github.com/edumbill/doap/wiki">wiki</a>
+</p>
+
+<p><b>cc</b> : 
+<a href="https://www.w3.org/Submission/ccREL/">attributionName</a> |
+<a href="https://www.w3.org/Submission/ccREL/">attributionURL</a> |
+<a href="https://www.w3.org/Submission/ccREL/">license</a> |
+<a href="https://www.w3.org/Submission/ccREL/">morePermissions</a> |
+<a href="https://www.w3.org/Submission/ccREL/">useGuidelines</a>
+</p>
+
+<p><b>prov</b> : 
+<a href="https://www.w3.org/TR/prov-o/#generalizationOf">generalizationOf</a> |
+<a href="https://www.w3.org/TR/prov-o/#generatedAtTime">generatedAtTime</a> |
+<a href="https://www.w3.org/TR/prov-o/#invalidatedAtTime">invalidatedAtTime</a> |
+<a href="https://www.w3.org/TR/prov-o/#specializationOf">specializationOf</a> |
+<a href="https://www.w3.org/TR/prov-o/#wasAttributedTo">wasAttributedTo</a> |
+<a href="https://www.w3.org/TR/prov-o/#wasDerivedFrom">wasDerivedFrom</a> |
+<a href="https://www.w3.org/TR/prov-o/#wasGeneratedBy">wasGeneratedBy</a> |
+<a href="https://www.w3.org/TR/prov-o/#wasInvalidatedBy">wasInvalidatedBy</a> |
+<a href="https://www.w3.org/TR/prov-o/#wasRevisionOf">wasRevisionOf</a>
+</p>
+
+<p><b>pav</b> : 
+<a href="http://pav-ontology.github.io/pav/">authoredBy</a> |
+<a href="http://pav-ontology.github.io/pav/">authoredOn</a> |
+<a href="http://pav-ontology.github.io/pav/">contributedBy</a> |
+<a href="http://pav-ontology.github.io/pav/">contributedOn</a> |
+<a href="http://pav-ontology.github.io/pav/">createdBy</a> |
+<a href="http://pav-ontology.github.io/pav/">createdOn</a> |
+<a href="http://pav-ontology.github.io/pav/">createdWith</a> |
+<a href="http://pav-ontology.github.io/pav/">curatedBy</a> |
+<a href="http://pav-ontology.github.io/pav/">curatedOn</a> |
+<a href="http://pav-ontology.github.io/pav/">derivedFrom</a> |
+<a href="http://pav-ontology.github.io/pav/">hasCurrentVersion</a> |
+<a href="http://pav-ontology.github.io/pav/">hasEarlierVersion</a> |
+<a href="http://pav-ontology.github.io/pav/">hasVersion</a> |
+<a href="http://pav-ontology.github.io/pav/">lastUpdateOn</a> |
+<a href="http://pav-ontology.github.io/pav/">previousVersion</a> |
+<a href="http://pav-ontology.github.io/pav/">version</a>
+</p>
+
+<p><b>oboInOwl</b> : 
+<a href="">hasDate</a> |
+<a href="">hasDefaultNamespace</a> |
+<a href="">hasSubset</a> |
+<a href="">hasSynonymType</a> |
+<a href="">hasVersion</a>
+</p>
+
+<p><b>sd</b> : 
+<a href="https://www.w3.org/TR/sparql11-service-description/#sd-endpoint">sd-endpoint</a>
+</p>
+
+<p><b>cito</b> : 
+<a href="http://www.sparontologies.net/ontologies/cito/source.html#d4e116">citesAsAuthority</a>
+</p>
+
+<p><b>bpm</b> : 
+<a href="">prefLabelProperty</a> | 
+<a href="">definitionProperty</a> | 
+<a href="">synonymProperty</a> | 
+<a href="">authorProperty</a> | 
+<a href="">hierarchyProperty</a> | 
+<a href="">obsoleteProperty</a> | 
+<a href="">group</a> | 
+<a href="">obsoleteParent</a> | 
+<a href="">viewOf</a> | 
+<a href="">views</a> | 
+<a href="">csvDump</a> | 
+<a href="">projects</a> | 
+<a href="">analytics</a> | 
+<a href="">maxDepth</a> | 
+<a href="">maxChildCount</a> | 
+<a href="">averageChildCount</a> | 
+<a href="">classesWithOneChild</a> | 
+<a href="">classesWithMoreThan25Children</a> | 
+<a href="">classesWithNoDefinition</a>
+</div>
+<p style="float: right; font-size: small;">[<a href="#sec-toc">Table of content</a>]</p>
+
+<h2 id="sec-simplified">3. Simplified List</h2>
+<br>
+<p>
+In this section, we present a simplified list of 124 properties which are the default properties in AgroPortal. This means that every property of the previous list is represented in AgroPortal by one of those properties. For a better comprehension, we categorized the properties as illustrated in the table below. Properties in blue are already included in BioPortal (but sometimes with an other name).
+<br><br> 
+<img src="Images/default-properties.png" alt="default-properties" />
+</p>
+<p style="float: right; font-size: small;">[<a href="#sec-toc">Table of content</a>]</p>
+<br>
+</div> 
+
+<hr>
+
+
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="Metadata%20for%20AgroPortal_fichiers/ga.js" type="text/javascript"></script><script src="Metadata%20for%20AgroPortal_fichiers/ga.html" type="text/javascript"></script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-8367411-4");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
+
+
+</div></div></body></html>
