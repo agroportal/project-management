@@ -10,11 +10,6 @@ This specification describes the complete list of metadata that can be supported
 This list is consisted of properties we picked up in 21 vocabularies.  
 We also present a simplified model that is implemented in AgroPortal and allows the management of any property outcome of our complete list.
 
-## Table of contents
-
-1.  [Vocabularies used](#sec-vocab)
-2.  [Complete List](#sec-complete)
-3.  [Simplified List](#sec-simplified)
 
 ## 1\. Vocabularies used
 
@@ -101,8 +96,6 @@ Here is the complete list of selected properties which might be used to describe
 
 **bpm** : prefLabelProperty | definitionProperty | synonymProperty | authorProperty | hierarchyProperty | obsoleteProperty | group | obsoleteParent | viewOf | views | csvDump | projects | analytics | maxDepth | maxChildCount | averageChildCount | classesWithOneChild | classesWithMoreThan25Children | classesWithNoDefinition
 
-
-[[Table of content](#sec-toc)]
 
 ## 3\. Simplified List
 
