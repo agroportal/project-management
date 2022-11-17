@@ -7,4 +7,4 @@ Documentation is currently being moved from
 
 to
 
-- https://doc.jonquetlab.lirmm.fr/doc/agroportal-public-documentation-QMpsC9aVBb
+- https://doc.jonquetlab.lirmm.fr/share/e6158eda-c109-4385-852c-51a42de9a412
