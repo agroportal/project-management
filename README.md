@@ -5,9 +5,11 @@ Repository used for management and support for the AgroPortal project.
 
 https://github.com/orgs/agroportal/projects/2
 
-### AgroPortal issues tracker
+### AgroPortal issues and discussions trackers
 
-AgroPortal users can use this repository to [ask for support or report problems](https://github.com/agroportal/project-management/issues)
+AgroPortal users can use this repository to [ask for support or report problems](https://github.com/agroportal/project-management/issues) or [start  discussions](https://github.com/agroportal/project-management/discussions) specific to AgroPortal or related to its content.
+
+Issues related to the OntoPortal technology should be reported on the [OntoPortal GitHub repository](https://github.com/ontoportal/ontoportal-project).
 
 ### AgroPortal Documentation
 
