@@ -1,12 +1,10 @@
 # AgroPortal Documentation
-Repository used to consolidate documentation about the AgroPortal Project
+Repository used to index documentation about the AgroPortal project
 
-See the [Wiki](https://github.com/agroportal/documentation/wiki)
+Documentation is currently being moved from 
 
-* To convert documentation from Mardown format to MediaWiki format: [pandoc.org](http://pandoc.org/try/)
-    * Install it (`sudo apt-get install pandoc` on Ubuntu or [download package](https://github.com/jgm/pandoc/releases/tag/1.17.0.2))
-    * Use it: `pandoc --from markdown_github --to mediawiki -o output.txt Home.md`
-    * To properly display source code on your MediaWiki: install the [SyntaxHighlighter extension](https://www.mediawiki.org/wiki/Extension:SyntaxHighlighter)
+- the Wiki section: https://github.com/agroportal/documentation/wiki
 
-* To generate Index on Markdown files: [github-markdown-toc](https://github.com/ekalinin/github-markdown-toc)
+to
 
+- https://doc.jonquetlab.lirmm.fr/doc/agroportal-public-documentation-QMpsC9aVBb
