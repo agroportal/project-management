@@ -1,10 +1,14 @@
-# AgroPortal Documentation
-Repository used to index documentation about the AgroPortal project
+# AgroPortal Project Management
+Repository used for management and support for the AgroPortal project
 
-Documentation is currently being moved from 
+AgroPortal project board
 
-- the Wiki section: https://github.com/agroportal/documentation/wiki
+AgroPortal users can use this repository to ask for support or report problem thru the Issues: 
+https://github.com/agroportal/project-management/issues
 
-to
+AgroPortal Documentation is here: 
+https://doc.jonquetlab.lirmm.fr/share/e6158eda-c109-4385-852c-51a42de9a412
 
-- https://doc.jonquetlab.lirmm.fr/share/e6158eda-c109-4385-852c-51a42de9a412
+For question or support contact: agroportal-support@lirmm.fr
+
+Main contact: Clement Jonquet (@jonquet)
