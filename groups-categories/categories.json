@@ -1,128 +1,57 @@
 {
-   "name":"Units and Constants",
-   "acronym":"UNITS",
-   "description":"UNESCO nomenclature for fields of science and technology: 2214 Units and Constants (http://skos.um.es/unesco6/2214)"
+   "name":"Agriculture",
+   "acronym":"AGRICULTURE",
+   "description":"UNESCO Thesaurus: 598 Agriculture (http://vocabularies.unesco.org/thesaurus/concept598)"
 },
 {
-   "name":"Chemistry",
-   "acronym":"CHEM",
-   "description":"UNESCO nomenclature for fields of science and technology: 23 Chemistry (http://skos.um.es/unesco6/23)"
-},
-{
-   "name":"Life Sciences",
-   "acronym":"LIFE",
-   "description":"UNESCO nomenclature for fields of science and technology: 24 Life Sciences (http://skos.um.es/unesco6/24)"
-},
-{
-   "name":"Plant Biology (Botany)",
-   "acronym":"BOTA",
-   "description":"UNESCO nomenclature for fields of science and technology: 2417 Plant Biology (Botany) (http://skos.um.es/unesco6/2417)",
-   "parentCategory":"https://data.agroportal.lirmm.fr/categories/LIFE"
+   "name":"Agricultural research",
+   "acronym":"AGRICULTURAL-RESEARCH",
+   "description":"UNESCO Thesaurus: 1818 Agricultural research (http://vocabularies.unesco.org/thesaurus/concept1818)",
+   "parentCategory":"https://data.agroportal.lirmm.fr/categories/AGRICULTURE"
 },    
 {
-   "name":"Agricultural Sciences",
-   "acronym":"AGRI",
-   "description":"UNESCO nomenclature for fields of science and technology: 31 Agricultural Sciences (http://skos.um.es/unesco6/31)"
-},
-{
-   "name":"Agricultural chemistry",
-   "acronym":"AG-CHEM",
-   "description":"UNESCO nomenclature for fields of science and technology: 3101 Agricultural chemistry (http://skos.um.es/unesco6/3101)",
-   "parentCategory":"https://data.agroportal.lirmm.fr/categories/AGRI"
-},
-{
    "name":"Agricultural engineering",
-   "acronym":"AG-ENG",
-   "description":"UNESCO nomenclature for fields of science and technology: 3102 Agricultural engineering (http://skos.um.es/unesco6/3102)",
-   "parentCategory":"https://data.agroportal.lirmm.fr/categories/AGRI"
+   "acronym":"AGRICULTURAL-ENGINEERING",
+   "description":"UNESCO Thesaurus: 1753 Agricultural engineering (http://vocabularies.unesco.org/thesaurus/concept1753)",
+   "parentCategory":"https://data.agroportal.lirmm.fr/categories/AGRICULTURE"
 },
+TEMPLATE
 {
-   "name":"Agronomy",
-   "acronym":"AGRO",
-   "description":"UNESCO nomenclature for fields of science and technology: 3103 Agronomy (http://skos.um.es/unesco6/3103)",
-   "parentCategory":"https://data.agroportal.lirmm.fr/categories/AGRI"
+   "name":"",
+   "acronym":"NAME-IN-UPPERCASE-WITH-DASH",
+   "description":"UNESCO Thesaurus: ID NAME (http://vocabularies.unesco.org/thesaurus/conceptID)",
+   "parentCategory":"https://data.agroportal.lirmm.fr/categories/ACRONYM-OF-PARENT-DONE-ABOVE-IF-ANY"
 },
-{
-   "name":"Animal husbandry",
-   "acronym":"ANIM",
-   "description":"UNESCO nomenclature for fields of science and technology: 3104 Animal husbandry (http://skos.um.es/unesco6/3104)",
-   "parentCategory":"https://data.agroportal.lirmm.fr/categories/AGRI"
-},
-{
-   "name":"Fish and wildlife",
-   "acronym":"FISH",
-   "description":"UNESCO nomenclature for fields of science and technology: 3105 Fish and wildlife (http://skos.um.es/unesco6/3105)",
-   "parentCategory":"https://data.agroportal.lirmm.fr/categories/AGRI"
-},
-{
-   "name":"Forestry",
-   "acronym":"FOREST",
-   "description":"UNESCO nomenclature for fields of science and technology: 3106 Forestry (http://skos.um.es/unesco6/3106)",
-   "parentCategory":"https://data.agroportal.lirmm.fr/categories/AGRI"
-},
-{
-   "name":"Horticulture",
-   "acronym":"HORTI",
-   "description":"UNESCO nomenclature for fields of science and technology: 3107 Horticulture (http://skos.um.es/unesco6/3107)",
-   "parentCategory":"https://data.agroportal.lirmm.fr/categories/AGRI"
-},
-{
-   "name":"Phytopathology",
-   "acronym":"PHYTO",
-   "description":"UNESCO nomenclature for fields of science and technology: 3108 Phytopathology (http://skos.um.es/unesco6/3108)",
-   "parentCategory":"https://data.agroportal.lirmm.fr/categories/AGRI"
-},
-{
-   "name":"Veterinary sciences",
-   "acronym":"VET",
-   "description":"UNESCO nomenclature for fields of science and technology: 3109 Veterinary sciences (http://skos.um.es/unesco6/3109)",
-   "parentCategory":"https://data.agroportal.lirmm.fr/categories/AGRI"
-},
-{
-   "name":"Other agricultural specialities (specify)",
-   "acronym":"AG-OTHER",
-   "description":"UNESCO nomenclature for fields of science and technology: 3199 Other agricultural specialities (specify) (http://skos.um.es/unesco6/3199)",
-   "parentCategory":"https://data.agroportal.lirmm.fr/categories/AGRI"
-},
-{
-   "name":"Earth and Space Sciences",
-   "acronym":"EARTH",
-   "description":"UNESCO nomenclature for fields of science and technology: 25 Earth and Space Sciences (http://skos.um.es/unesco6/25)"
-},
-{
-   "name":"Climatology",
-   "acronym":"CLIMAT",
-   "description":"UNESCO nomenclature for fields of science and technology: 2502 Climatology (http://skos.um.es/unesco6/2502)",
-   "parentCategory": "https://data.agroportal.lirmm.fr/categories/EARTH"
-},
-{
-   "name":"Meteorology",
-   "acronym":"METEO",
-   "description":"UNESCO nomenclature for fields of science and technology: 2509 Meteorology (http://skos.um.es/unesco6/2509)",
-   "parentCategory": "https://data.agroportal.lirmm.fr/categories/EARTH"
-},
-{
-   "name":"Soil Science",
-   "acronym":"SOIL",
-   "description":"UNESCO nomenclature for fields of science and technology: 2511 Soil Science (http://skos.um.es/unesco6/2511)",
-   "parentCategory": "https://data.agroportal.lirmm.fr/categories/EARTH"
-},
-{
-   "name":"Technological Sciences",
-   "acronym":"TECH",
-   "description":"UNESCO nomenclature for fields of science and technology: 33 Technological Sciences (http://skos.um.es/unesco6/33)"
-},
-{
-   "name":"Environmental technology and enviromental",
-   "acronym":"ENVTECH",
-   "description":"UNESCO nomenclature for fields of science and technology: 3308 Environmental technology and enviromental (http://skos.um.es/unesco6/3308)",
-   "parentCategory": "https://data.agroportal.lirmm.fr/categories/EARTH"
-},
-{
-   "name":"Food technology",
-   "acronym":"FOODTECH",
-   "description":"UNESCO nomenclature for fields of science and technology: 3309 Food technology (http://skos.um.es/unesco6/3309)",
-   "parentCategory": "https://data.agroportal.lirmm.fr/categories/EARTH"
-} 
-  
 
+Animal products (http://vocabularies.unesco.org/thesaurus/concept1810)
+Animals (http://vocabularies.unesco.org/thesaurus/concept2380)
+Biodiversity (http://vocabularies.unesco.org/thesaurus/concept4011)
+Ecology (http://vocabularies.unesco.org/thesaurus/concept3964)
+Biotechnology (http://vocabularies.unesco.org/thesaurus/concept619)
+Agricultural genetics (http://vocabularies.unesco.org/thesaurus/concept1718)
+Agriculture (http://vocabularies.unesco.org/thesaurus/concept598)
+Cultivation (http://vocabularies.unesco.org/thesaurus/concept1777)
+Fisheries (http://vocabularies.unesco.org/thesaurus/concept601)
+Aquaculture (http://vocabularies.unesco.org/thesaurus/concept1323)
+Food (http://vocabularies.unesco.org/thesaurus/concept1812)
+Nutrition (http://vocabularies.unesco.org/thesaurus/concept7996)
+Food security (http://vocabularies.unesco.org/thesaurus/concept1798)
+Forestry (http://vocabularies.unesco.org/thesaurus/concept603)
+Forest products (http://vocabularies.unesco.org/thesaurus/concept1813)
+Government (http://vocabularies.unesco.org/thesaurus/concept564)
+Law (http://vocabularies.unesco.org/thesaurus/concept546)
+Legislation (http://vocabularies.unesco.org/thesaurus/concept13273)
+Health (http://vocabularies.unesco.org/thesaurus/concept238)
+Pathology (http://vocabularies.unesco.org/thesaurus/concept251)
+Insects (http://vocabularies.unesco.org/thesaurus/concept2461)
+Entomology (http://vocabularies.unesco.org/thesaurus/concept9990)
+Natural resources (http://vocabularies.unesco.org/thesaurus/concept213)
+Environment (http://vocabularies.unesco.org/thesaurus/concept195)
+Earth (planet) (http://vocabularies.unesco.org/thesaurus/concept4083)
+Physics (http://vocabularies.unesco.org/thesaurus/concept132)
+Chemistry (http://vocabularies.unesco.org/thesaurus/concept143)
+Plant physiology (http://vocabularies.unesco.org/thesaurus/concept4262)
+Plant resources (http://vocabularies.unesco.org/thesaurus/concept10394)
+Plant products (http://vocabularies.unesco.org/thesaurus/concept1814)
+Rural sociology (http://vocabularies.unesco.org/thesaurus/concept16135)
+Typology (http://vocabularies.unesco.org/thesaurus/concept16291
