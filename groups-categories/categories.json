@@ -15,6 +15,11 @@
    "description":"UNESCO Thesaurus: 1753 Agricultural engineering (http://vocabularies.unesco.org/thesaurus/concept1753)",
    "parentCategory":"https://data.agroportal.lirmm.fr/categories/AGRICULTURE"
 },
+{
+   "name":"Animal products",
+   "acronym":"ANIMAL-PRODUCTS",
+   "description":"UNESCO Thesaurus: 1810 Animal products (http://vocabularies.unesco.org/thesaurus/concept1810)"
+},
 TEMPLATE
 {
    "name":"",
@@ -23,7 +28,7 @@ TEMPLATE
    "parentCategory":"https://data.agroportal.lirmm.fr/categories/ACRONYM-OF-PARENT-DONE-ABOVE-IF-ANY"
 },
 
-Animal products (http://vocabularies.unesco.org/thesaurus/concept1810)
+TODO
 Animals (http://vocabularies.unesco.org/thesaurus/concept2380)
 Biodiversity (http://vocabularies.unesco.org/thesaurus/concept4011)
 Ecology (http://vocabularies.unesco.org/thesaurus/concept3964)
