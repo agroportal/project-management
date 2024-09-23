@@ -20,15 +20,196 @@
    "acronym":"ANIMAL-PRODUCTS",
    "description":"UNESCO Thesaurus: 1810 Animal products (http://vocabularies.unesco.org/thesaurus/concept1810)"
 },
+{
+   "name":"Animals",
+   "acronym":"ANIMALS",
+   "description":"UNESCO Thesaurus: 2380 (http://vocabularies.unesco.org/thesaurus/concept2380)",
+   "parentCategory":"https://data.agroportal.lirmm.fr/categories/ACRONYM-OF-PARENT-DONE-ABOVE-IF-ANY"
+},
+{
+   "name":"Biodiversity",
+   "acronym":"BIODIVERSITY",
+   "description":"UNESCO Thesaurus: 4011 (http://vocabularies.unesco.org/thesaurus/concept4011)",
+   "parentCategory":"https://data.agroportal.lirmm.fr/categories/ACRONYM-OF-PARENT-DONE-ABOVE-IF-ANY"
+},
+{
+   "name":"Ecology",
+   "acronym":"ECOLOGY",
+   "description":"UNESCO Thesaurus: 3964 (http://vocabularies.unesco.org/thesaurus/concept3964)",
+   "parentCategory":"https://data.agroportal.lirmm.fr/categories/ACRONYM-OF-PARENT-DONE-ABOVE-IF-ANY"
+},
+{
+   "name":"Biotechnology",
+   "acronym":"BIOTECHNOLOGY",
+   "description":"UNESCO Thesaurus: 619 (http://vocabularies.unesco.org/thesaurus/concept619)",
+   "parentCategory":"https://data.agroportal.lirmm.fr/categories/ACRONYM-OF-PARENT-DONE-ABOVE-IF-ANY"
+},
+{
+   "name":"Agricultural genetics",
+   "acronym":"AGRICULTURAL GENETICS",
+   "description":"UNESCO Thesaurus: 1718 (http://vocabularies.unesco.org/thesaurus/concept1718)",
+   "parentCategory":"https://data.agroportal.lirmm.fr/categories/ACRONYM-OF-PARENT-DONE-ABOVE-IF-ANY"
+},
+{
+   "name":"Cultivation",
+   "acronym":"CULTIVATION",
+   "description":"UNESCO Thesaurus: 1777 (http://vocabularies.unesco.org/thesaurus/concept1777)",
+   "parentCategory":"https://data.agroportal.lirmm.fr/categories/ACRONYM-OF-PARENT-DONE-ABOVE-IF-ANY"
+},
+{
+   "name":"Fisheries",
+   "acronym":"FISHERIES",
+   "description":"UNESCO Thesaurus: 601 (http://vocabularies.unesco.org/thesaurus/concept601)",
+   "parentCategory":"https://data.agroportal.lirmm.fr/categories/ACRONYM-OF-PARENT-DONE-ABOVE-IF-ANY"
+},
+{
+   "name":"Aquaculture",
+   "acronym":"AQUACULTURE",
+   "description":"UNESCO Thesaurus: 1323 (http://vocabularies.unesco.org/thesaurus/concept1323)",
+   "parentCategory":"https://data.agroportal.lirmm.fr/categories/ACRONYM-OF-PARENT-DONE-ABOVE-IF-ANY"
+},
+{
+   "name":"Food",
+   "acronym":"FOOD",
+   "description":"UNESCO Thesaurus: 1812 (http://vocabularies.unesco.org/thesaurus/concept1812)",
+   "parentCategory":"https://data.agroportal.lirmm.fr/categories/ACRONYM-OF-PARENT-DONE-ABOVE-IF-ANY"
+},
+{
+   "name":"Nutrition",
+   "acronym":"NUTRITION",
+   "description":"UNESCO Thesaurus: 7996 (http://vocabularies.unesco.org/thesaurus/concept7996)",
+   "parentCategory":"https://data.agroportal.lirmm.fr/categories/ACRONYM-OF-PARENT-DONE-ABOVE-IF-ANY"
+},
+{
+   "name":"Food security",
+   "acronym":"FOOD SECURITY",
+   "description":"UNESCO Thesaurus: 1798 (http://vocabularies.unesco.org/thesaurus/concept1798)",
+   "parentCategory":"https://data.agroportal.lirmm.fr/categories/ACRONYM-OF-PARENT-DONE-ABOVE-IF-ANY"
+},
+{
+   "name":"Forestry",
+   "acronym":"FORESTRY",
+   "description":"UNESCO Thesaurus: 603 (http://vocabularies.unesco.org/thesaurus/concept603)",
+   "parentCategory":"https://data.agroportal.lirmm.fr/categories/ACRONYM-OF-PARENT-DONE-ABOVE-IF-ANY"
+},
+{
+   "name":"Forest products",
+   "acronym":"FOREST PRODUCTS",
+   "description":"UNESCO Thesaurus: 1813 (http://vocabularies.unesco.org/thesaurus/concept1813)",
+   "parentCategory":"https://data.agroportal.lirmm.fr/categories/ACRONYM-OF-PARENT-DONE-ABOVE-IF-ANY"
+},
+{
+   "name":"Government",
+   "acronym":"GOVERNMENT",
+   "description":"UNESCO Thesaurus: 564 (http://vocabularies.unesco.org/thesaurus/concept564)",
+   "parentCategory":"https://data.agroportal.lirmm.fr/categories/ACRONYM-OF-PARENT-DONE-ABOVE-IF-ANY"
+},
+{
+   "name":"Law",
+   "acronym":"LAW",
+   "description":"UNESCO Thesaurus: 546 (http://vocabularies.unesco.org/thesaurus/concept546)",
+   "parentCategory":"https://data.agroportal.lirmm.fr/categories/ACRONYM-OF-PARENT-DONE-ABOVE-IF-ANY"
+},
+{
+   "name":"Legislation",
+   "acronym":"LEGISLATION",
+   "description":"UNESCO Thesaurus: 13273 (http://vocabularies.unesco.org/thesaurus/concept13273)",
+   "parentCategory":"https://data.agroportal.lirmm.fr/categories/ACRONYM-OF-PARENT-DONE-ABOVE-IF-ANY"
+},
+{
+   "name":"Health",
+   "acronym":"HEALTH",
+   "description":"UNESCO Thesaurus: 238 (http://vocabularies.unesco.org/thesaurus/concept238)",
+   "parentCategory":"https://data.agroportal.lirmm.fr/categories/ACRONYM-OF-PARENT-DONE-ABOVE-IF-ANY"
+},
+{
+   "name":"Pathology",
+   "acronym":"PATHOLOGY",
+   "description":"UNESCO Thesaurus: 251 (http://vocabularies.unesco.org/thesaurus/concept251)",
+   "parentCategory":"https://data.agroportal.lirmm.fr/categories/ACRONYM-OF-PARENT-DONE-ABOVE-IF-ANY"
+},
+{
+   "name":"Insects",
+   "acronym":"INSECTS",
+   "description":"UNESCO Thesaurus: 2461 (http://vocabularies.unesco.org/thesaurus/concept2461)",
+   "parentCategory":"https://data.agroportal.lirmm.fr/categories/ACRONYM-OF-PARENT-DONE-ABOVE-IF-ANY"
+},
+{
+   "name":"Entomology",
+   "acronym":"ENTOMOLOGY",
+   "description":"UNESCO Thesaurus: 9990 (http://vocabularies.unesco.org/thesaurus/concept9990)",
+   "parentCategory":"https://data.agroportal.lirmm.fr/categories/ACRONYM-OF-PARENT-DONE-ABOVE-IF-ANY"
+},
+{
+   "name":"Natural resources",
+   "acronym":"NATURAL RESOURCES",
+   "description":"UNESCO Thesaurus: 213 (http://vocabularies.unesco.org/thesaurus/concept213)",
+   "parentCategory":"https://data.agroportal.lirmm.fr/categories/ACRONYM-OF-PARENT-DONE-ABOVE-IF-ANY"
+},
+{
+   "name":"Environment",
+   "acronym":"ENVIRONMENT",
+   "description":"UNESCO Thesaurus: 195 (http://vocabularies.unesco.org/thesaurus/concept195)",
+   "parentCategory":"https://data.agroportal.lirmm.fr/categories/ACRONYM-OF-PARENT-DONE-ABOVE-IF-ANY"
+},
+{
+   "name":"Earth",
+   "acronym":"EARTH",
+   "description":"UNESCO Thesaurus: 4083 (http://vocabularies.unesco.org/thesaurus/concept4083)",
+   "parentCategory":"https://data.agroportal.lirmm.fr/categories/ACRONYM-OF-PARENT-DONE-ABOVE-IF-ANY"
+},
+{
+   "name":"Physics",
+   "acronym":"PHYSICS",
+   "description":"UNESCO Thesaurus: 132 (http://vocabularies.unesco.org/thesaurus/concept132)",
+   "parentCategory":"https://data.agroportal.lirmm.fr/categories/ACRONYM-OF-PARENT-DONE-ABOVE-IF-ANY"
+},
+{
+   "name":"Chemistry",
+   "acronym":"CHEMISTRY",
+   "description":"UNESCO Thesaurus: 143 (http://vocabularies.unesco.org/thesaurus/concept143)",
+   "parentCategory":"https://data.agroportal.lirmm.fr/categories/ACRONYM-OF-PARENT-DONE-ABOVE-IF-ANY"
+},
+{
+   "name":"Plant physiology",
+   "acronym":"PLANT PHYSIOLOGY",
+   "description":"UNESCO Thesaurus: 4262 (http://vocabularies.unesco.org/thesaurus/concept4262)",
+   "parentCategory":"https://data.agroportal.lirmm.fr/categories/ACRONYM-OF-PARENT-DONE-ABOVE-IF-ANY"
+},
+{
+   "name":"Plant resources",
+   "acronym":"PLANT RESOURCES",
+   "description":"UNESCO Thesaurus: 10394 (http://vocabularies.unesco.org/thesaurus/concept10394)",
+   "parentCategory":"https://data.agroportal.lirmm.fr/categories/ACRONYM-OF-PARENT-DONE-ABOVE-IF-ANY"
+},
+{
+   "name":"Plant products",
+   "acronym":"PLANT PRODUCTS",
+   "description":"UNESCO Thesaurus: 1814 (http://vocabularies.unesco.org/thesaurus/concept1814)",
+   "parentCategory":"https://data.agroportal.lirmm.fr/categories/ACRONYM-OF-PARENT-DONE-ABOVE-IF-ANY"
+},
+{
+   "name":"Rural sociology",
+   "acronym":"RURAL SOCIOLOGY",
+   "description":"UNESCO Thesaurus: 16135 (http://vocabularies.unesco.org/thesaurus/concept16135)",
+   "parentCategory":"https://data.agroportal.lirmm.fr/categories/ACRONYM-OF-PARENT-DONE-ABOVE-IF-ANY"
+},
+{
+   "name":"Typology",
+   "acronym":"TYPOLOGY",
+   "description":"UNESCO Thesaurus: 16291 (http://vocabularies.unesco.org/thesaurus/concept16291)",
+   "parentCategory":"https://data.agroportal.lirmm.fr/categories/ACRONYM-OF-PARENT-DONE-ABOVE-IF-ANY"
+},
+####
 TEMPLATE
 {
-   "name":"",
+   "name":"Name",
    "acronym":"NAME-IN-UPPERCASE-WITH-DASH",
    "description":"UNESCO Thesaurus: ID NAME (http://vocabularies.unesco.org/thesaurus/conceptID)",
    "parentCategory":"https://data.agroportal.lirmm.fr/categories/ACRONYM-OF-PARENT-DONE-ABOVE-IF-ANY"
 },
-
-TODO
+####
+DONE
 Animals (http://vocabularies.unesco.org/thesaurus/concept2380)
 Biodiversity (http://vocabularies.unesco.org/thesaurus/concept4011)
 Ecology (http://vocabularies.unesco.org/thesaurus/concept3964)
