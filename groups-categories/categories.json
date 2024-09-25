@@ -47,7 +47,7 @@
 },
 {
    "name":"Agricultural genetics",
-   "acronym":"AGRICULTURAL GENETICS",
+   "acronym":"AGRICULTURAL-GENETICS",
    "description":"UNESCO Thesaurus: 1718 (http://vocabularies.unesco.org/thesaurus/concept1718)",
    "parentCategory":"https://data.agroportal.lirmm.fr/categories/TECH"
    "parentCategory":"https://data.agroportal.lirmm.fr/categories/GENPLANT"
@@ -84,7 +84,7 @@
 },
 {
    "name":"Food security",
-   "acronym":"FOOD SECURITY",
+   "acronym":"FOOD-SECURITY",
    "description":"UNESCO Thesaurus: 1798 (http://vocabularies.unesco.org/thesaurus/concept1798)",
    "parentCategory":"https://data.agroportal.lirmm.fr/categories/FOOD"
 },
@@ -96,7 +96,7 @@
 },
 {
    "name":"Forest products",
-   "acronym":"FOREST PRODUCTS",
+   "acronym":"FOREST-PRODUCTS",
    "description":"UNESCO Thesaurus: 1813 (http://vocabularies.unesco.org/thesaurus/concept1813)",
    "parentCategory":"https://data.agroportal.lirmm.fr/categories/FORESTRY"
 },
@@ -146,7 +146,7 @@
 },
 {
    "name":"Natural resources",
-   "acronym":"NATURAL RESOURCES",
+   "acronym":"NATURAL-RESOURCES",
    "description":"UNESCO Thesaurus: 213 (http://vocabularies.unesco.org/thesaurus/concept213)",
    "parentCategory":"https://data.agroportal.lirmm.fr/categories/NATRES"
 },
@@ -177,7 +177,7 @@
 },
 {
    "name":"Plant physiology",
-   "acronym":"PLANT PHYSIOLOGY",
+   "acronym":"PLANT-PHYSIOLOGY",
    "description":"UNESCO Thesaurus: 4262 (http://vocabularies.unesco.org/thesaurus/concept4262)",
    "parentCategory":"https://data.agroportal.lirmm.fr/categories/TRAITS"
    "parentCategory":"https://data.agroportal.lirmm.fr/categories/GENBREEDING"
@@ -188,18 +188,18 @@
 },
 {
    "name":"Plant resources",
-   "acronym":"PLANT RESOURCES",
+   "acronym":"PLANT-RESOURCES",
    "description":"UNESCO Thesaurus: 10394 (http://vocabularies.unesco.org/thesaurus/concept10394)",
 },
 {
    "name":"Plant products",
-   "acronym":"PLANT PRODUCTS",
+   "acronym":"PLANT-PRODUCTS",
    "description":"UNESCO Thesaurus: 1814 (http://vocabularies.unesco.org/thesaurus/concept1814)",
    "parentCategory":"https://data.agroportal.lirmm.fr/categories/PLANT"
 },
 {
    "name":"Rural sociology",
-   "acronym":"RURAL SOCIOLOGY",
+   "acronym":"RURAL-SOCIOLOGY",
    "description":"UNESCO Thesaurus: 16135 (http://vocabularies.unesco.org/thesaurus/concept16135)",
    "parentCategory":"https://data.agroportal.lirmm.fr/categories/RURAL"
 },
