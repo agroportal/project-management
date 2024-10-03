@@ -1,7 +1,7 @@
 {
    "name":"Agriculture",
    "acronym":"AGRICULTURE",
-   "description":"UNESCO Thesaurus: 598 Agriculture (http://vocabularies.unesco.org/thesaurus/concept598)"
+   "description":"UNESCO Thesaurus: 598 Agriculture (http://vocabularies.unesco.org/thesaurus/concept598)",
    "parentCategory":"https://data.agroportal.lirmm.fr/categories/AGRICULTURE"
 },
 {
