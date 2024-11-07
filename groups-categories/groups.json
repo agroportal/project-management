@@ -1,9 +1,11 @@
+https://data.agroportal.lirmm.fr/groups?display=all&display_context=false
+
 [
    "-"{
-      "acronym":"OBO-FOUNDRY",
+      "id":"https://data.agroportal.lirmm.fr/groups/OBO-FOUNDRY",
       "name":"OBO Foundry",
-      "description":"This group includes ontologies currently available within the obofoundry.org platform.",
-      "created":"2017-01-19T16:47:12+01:00",
+      "acronym":"OBO-FOUNDRY",
+      "created":"2017-01-19T16:47:12.000+01:00",
       "-""ontologies":[
          "https://data.agroportal.lirmm.fr/ontologies/AGRO",
          "https://data.agroportal.lirmm.fr/ontologies/RO",
@@ -37,22 +39,15 @@
          "https://data.agroportal.lirmm.fr/ontologies/PECO",
          "https://data.agroportal.lirmm.fr/ontologies/PO"
       ],
+      "description":"This group includes ontologies currently available within the obofoundry.org platform.",
       "@id":"https://data.agroportal.lirmm.fr/groups/OBO-FOUNDRY",
-      "@type":"http://data.bioontology.org/metadata/Group",
-      "-""@context":{
-         "@vocab":"http://data.bioontology.org/metadata/",
-         "acronym":"http://data.bioontology.org/metadata/acronym",
-         "name":"http://data.bioontology.org/metadata/name",
-         "description":"http://data.bioontology.org/metadata/description",
-         "created":"http://data.bioontology.org/metadata/created",
-         "@language":"en"
-      }
+      "@type":"http://data.bioontology.org/metadata/Group"
    },
    "-"{
-      "acronym":"AGBIODATA",
+      "id":"https://data.agroportal.lirmm.fr/groups/AGBIODATA",
       "name":"Consortium of Agricultural Biological Databases",
-      "description":"AgBioData is a consortium of agricultural biological databases which strive to identify common goals relating to data set acquisition, display, user retrieval and manipulation; data, software and hardware standards, and database best practices.",
-      "created":"2017-04-19T22:38:55+02:00",
+      "acronym":"AGBIODATA",
+      "created":"2017-04-19T22:38:55.000+02:00",
       "-""ontologies":[
          "https://data.agroportal.lirmm.fr/ontologies/SDGIO",
          "https://data.agroportal.lirmm.fr/ontologies/CO_321",
@@ -77,22 +72,15 @@
          "https://data.agroportal.lirmm.fr/ontologies/CO_340",
          "https://data.agroportal.lirmm.fr/ontologies/PO"
       ],
+      "description":"AgBioData is a consortium of agricultural biological databases which strive to identify common goals relating to data set acquisition, display, user retrieval and manipulation; data, software and hardware standards, and database best practices.",
       "@id":"https://data.agroportal.lirmm.fr/groups/AGBIODATA",
-      "@type":"http://data.bioontology.org/metadata/Group",
-      "-""@context":{
-         "@vocab":"http://data.bioontology.org/metadata/",
-         "acronym":"http://data.bioontology.org/metadata/acronym",
-         "name":"http://data.bioontology.org/metadata/name",
-         "description":"http://data.bioontology.org/metadata/description",
-         "created":"http://data.bioontology.org/metadata/created",
-         "@language":"en"
-      }
+      "@type":"http://data.bioontology.org/metadata/Group"
    },
    "-"{
-      "acronym":"WHEAT",
+      "id":"https://data.agroportal.lirmm.fr/groups/WHEAT",
       "name":"Wheat Data Interoperability working group",
-      "description":"This group includes the ontologies used by the RDA Wheat Data Interoperability working group.\n",
-      "created":"2015-06-23T15:57:16+02:00",
+      "acronym":"WHEAT",
+      "created":"2015-06-23T15:57:16.000+02:00",
       "-""ontologies":[
          "https://data.agroportal.lirmm.fr/ontologies/CO_321",
          "https://data.agroportal.lirmm.fr/ontologies/FALDO",
@@ -113,43 +101,29 @@
          "https://data.agroportal.lirmm.fr/ontologies/PECO",
          "https://data.agroportal.lirmm.fr/ontologies/PO"
       ],
+      "description":"This group includes the ontologies used by the RDA Wheat Data Interoperability working group.\n",
       "@id":"https://data.agroportal.lirmm.fr/groups/WHEAT",
-      "@type":"http://data.bioontology.org/metadata/Group",
-      "-""@context":{
-         "@vocab":"http://data.bioontology.org/metadata/",
-         "acronym":"http://data.bioontology.org/metadata/acronym",
-         "name":"http://data.bioontology.org/metadata/name",
-         "description":"http://data.bioontology.org/metadata/description",
-         "created":"http://data.bioontology.org/metadata/created",
-         "@language":"en"
-      }
+      "@type":"http://data.bioontology.org/metadata/Group"
    },
    "-"{
-      "acronym":"AGROTERMOS",
+      "id":"https://data.agroportal.lirmm.fr/groups/AGROTERMOS",
       "name":"Embrapa's Agrotermos conceptual space",
-      "description":"(to come)",
-      "created":"2024-04-26T16:08:51+02:00",
+      "acronym":"AGROTERMOS",
+      "created":"2024-04-26T16:08:51.000+02:00",
       "-""ontologies":[
          "https://data.agroportal.lirmm.fr/ontologies/THESAGRO",
          "https://data.agroportal.lirmm.fr/ontologies/VOCGEO",
          "https://data.agroportal.lirmm.fr/ontologies/AGROVOC"
       ],
+      "description":"(to come)",
       "@id":"https://data.agroportal.lirmm.fr/groups/AGROTERMOS",
-      "@type":"http://data.bioontology.org/metadata/Group",
-      "-""@context":{
-         "@vocab":"http://data.bioontology.org/metadata/",
-         "acronym":"http://data.bioontology.org/metadata/acronym",
-         "name":"http://data.bioontology.org/metadata/name",
-         "description":"http://data.bioontology.org/metadata/description",
-         "created":"http://data.bioontology.org/metadata/created",
-         "@language":"en"
-      }
+      "@type":"http://data.bioontology.org/metadata/Group"
    },
    "-"{
-      "acronym":"D2KAB",
+      "id":"https://data.agroportal.lirmm.fr/groups/D2KAB",
       "name":"Data to Knowledge in Agronomy and Biodiversity",
-      "description":"Ontologies and other semantic resources co-developed during the ANR D2KAB (2019-2024) project or maintained by project members.",
-      "created":"2023-10-27T14:20:46+02:00",
+      "acronym":"D2KAB",
+      "created":"2023-10-27T14:20:46.000+02:00",
       "-""ontologies":[
          "https://data.agroportal.lirmm.fr/ontologies/E-PHY",
          "https://data.agroportal.lirmm.fr/ontologies/FCUO",
@@ -186,22 +160,15 @@
          "https://data.agroportal.lirmm.fr/ontologies/PPD-CR",
          "https://data.agroportal.lirmm.fr/ontologies/PPD-GEN"
       ],
+      "description":"Ontologies and other semantic resources co-developed during the ANR D2KAB (2019-2024) project or maintained by project members.",
       "@id":"https://data.agroportal.lirmm.fr/groups/D2KAB",
-      "@type":"http://data.bioontology.org/metadata/Group",
-      "-""@context":{
-         "@vocab":"http://data.bioontology.org/metadata/",
-         "acronym":"http://data.bioontology.org/metadata/acronym",
-         "name":"http://data.bioontology.org/metadata/name",
-         "description":"http://data.bioontology.org/metadata/description",
-         "created":"http://data.bioontology.org/metadata/created",
-         "@language":"en"
-      }
+      "@type":"http://data.bioontology.org/metadata/Group"
    },
    "-"{
-      "acronym":"PLANTEOME",
+      "id":"https://data.agroportal.lirmm.fr/groups/PLANTEOME",
       "name":"Planteome",
-      "description":"This group includes includes all the ontologies used within the Planteome (https://planteome.org/) database.",
-      "created":"2024-05-29T11:30:21+02:00",
+      "acronym":"PLANTEOME",
+      "created":"2024-05-29T11:30:21.000+02:00",
       "-""ontologies":[
          "https://data.agroportal.lirmm.fr/ontologies/CO_330",
          "https://data.agroportal.lirmm.fr/ontologies/CO_341",
@@ -219,22 +186,15 @@
          "https://data.agroportal.lirmm.fr/ontologies/PECO",
          "https://data.agroportal.lirmm.fr/ontologies/PO"
       ],
+      "description":"This group includes includes all the ontologies used within the Planteome (https://planteome.org/) database.",
       "@id":"https://data.agroportal.lirmm.fr/groups/PLANTEOME",
-      "@type":"http://data.bioontology.org/metadata/Group",
-      "-""@context":{
-         "@vocab":"http://data.bioontology.org/metadata/",
-         "acronym":"http://data.bioontology.org/metadata/acronym",
-         "name":"http://data.bioontology.org/metadata/name",
-         "description":"http://data.bioontology.org/metadata/description",
-         "created":"http://data.bioontology.org/metadata/created",
-         "@language":"en"
-      }
+      "@type":"http://data.bioontology.org/metadata/Group"
    },
    "-"{
-      "acronym":"INRAE",
+      "id":"https://data.agroportal.lirmm.fr/groups/INRAE",
       "name":"National research institute for agriculture, food and the environment",
-      "description":"This group includes INRAE ontologies.",
-      "created":"2020-01-27T09:46:02+01:00",
+      "acronym":"INRAE",
+      "created":"2020-01-27T09:46:02.000+01:00",
       "-""ontologies":[
          "https://data.agroportal.lirmm.fr/ontologies/BIPON",
          "https://data.agroportal.lirmm.fr/ontologies/GECO",
@@ -290,41 +250,27 @@
          "https://data.agroportal.lirmm.fr/ontologies/PPD-CR",
          "https://data.agroportal.lirmm.fr/ontologies/PPD-GEN"
       ],
+      "description":"This group includes INRAE ontologies.",
       "@id":"https://data.agroportal.lirmm.fr/groups/INRAE",
-      "@type":"http://data.bioontology.org/metadata/Group",
-      "-""@context":{
-         "@vocab":"http://data.bioontology.org/metadata/",
-         "acronym":"http://data.bioontology.org/metadata/acronym",
-         "name":"http://data.bioontology.org/metadata/name",
-         "description":"http://data.bioontology.org/metadata/description",
-         "created":"http://data.bioontology.org/metadata/created",
-         "@language":"en"
-      }
+      "@type":"http://data.bioontology.org/metadata/Group"
    },
    "-"{
-      "acronym":"EXCLU",
+      "id":"https://data.agroportal.lirmm.fr/groups/EXCLU",
       "name":"Resources exclusively on AgroPortal",
-      "description":"Ontologies and other semantic resources that are only hosted on AgroPortal and no other OntoPortal-based catalogue.",
-      "created":"2024-05-06T17:56:27+02:00",
+      "acronym":"EXCLU",
+      "created":"2024-05-06T17:56:27.000+02:00",
       "ontologies":[
          
       ],
+      "description":"Ontologies and other semantic resources that are only hosted on AgroPortal and no other OntoPortal-based catalogue.",
       "@id":"https://data.agroportal.lirmm.fr/groups/EXCLU",
-      "@type":"http://data.bioontology.org/metadata/Group",
-      "-""@context":{
-         "@vocab":"http://data.bioontology.org/metadata/",
-         "acronym":"http://data.bioontology.org/metadata/acronym",
-         "name":"http://data.bioontology.org/metadata/name",
-         "description":"http://data.bioontology.org/metadata/description",
-         "created":"http://data.bioontology.org/metadata/created",
-         "@language":"en"
-      }
+      "@type":"http://data.bioontology.org/metadata/Group"
    },
    "-"{
-      "acronym":"SEMANDIV",
+      "id":"https://data.agroportal.lirmm.fr/groups/SEMANDIV",
       "name":"GDR SemanDiv",
-      "description":"The SemanDiv working group contributes to the resolution of semantic heterogeneity in the thematic field of biodiversity.",
-      "created":"2018-01-17T17:33:35+01:00",
+      "acronym":"SEMANDIV",
+      "created":"2018-01-17T17:33:35.000+01:00",
       "-""ontologies":[
          "https://data.agroportal.lirmm.fr/ontologies/SDGIO",
          "https://data.agroportal.lirmm.fr/ontologies/BCO",
@@ -338,22 +284,15 @@
          "https://data.agroportal.lirmm.fr/ontologies/TAXREF-LD",
          "https://data.agroportal.lirmm.fr/ontologies/TOP"
       ],
+      "description":"The SemanDiv working group contributes to the resolution of semantic heterogeneity in the thematic field of biodiversity.",
       "@id":"https://data.agroportal.lirmm.fr/groups/SEMANDIV",
-      "@type":"http://data.bioontology.org/metadata/Group",
-      "-""@context":{
-         "@vocab":"http://data.bioontology.org/metadata/",
-         "acronym":"http://data.bioontology.org/metadata/acronym",
-         "name":"http://data.bioontology.org/metadata/name",
-         "description":"http://data.bioontology.org/metadata/description",
-         "created":"http://data.bioontology.org/metadata/created",
-         "@language":"en"
-      }
+      "@type":"http://data.bioontology.org/metadata/Group"
    },
    "-"{
-      "acronym":"CROP",
+      "id":"https://data.agroportal.lirmm.fr/groups/CROP",
       "name":"Crop Ontology Curation Tool",
-      "description":"This group includes the ontologies that form the Crop Ontology and currently available within the cropontology.org platform.",
-      "created":"2015-06-23T15:57:17+02:00",
+      "acronym":"CROP",
+      "created":"2015-06-23T15:57:17.000+02:00",
       "-""ontologies":[
          "https://data.agroportal.lirmm.fr/ontologies/CO_330",
          "https://data.agroportal.lirmm.fr/ontologies/CO_341",
@@ -399,15 +338,8 @@
          "https://data.agroportal.lirmm.fr/ontologies/CO_340",
          "https://data.agroportal.lirmm.fr/ontologies/CO_360"
       ],
+      "description":"This group includes the ontologies that form the Crop Ontology and currently available within the cropontology.org platform.",
       "@id":"https://data.agroportal.lirmm.fr/groups/CROP",
-      "@type":"http://data.bioontology.org/metadata/Group",
-      "-""@context":{
-         "@vocab":"http://data.bioontology.org/metadata/",
-         "acronym":"http://data.bioontology.org/metadata/acronym",
-         "name":"http://data.bioontology.org/metadata/name",
-         "description":"http://data.bioontology.org/metadata/description",
-         "created":"http://data.bioontology.org/metadata/created",
-         "@language":"en"
-      }
+      "@type":"http://data.bioontology.org/metadata/Group"
    }
 ]

@@ -1,0 +1,1835 @@
+https://data.agroportal.lirmm.fr/ontologies?display=name,hasDomain&display_links=false&display_context=false
+
+[
+   {
+      "name":"Open Predictive Microbiology Ontology",
+      "hasDomain":[
+         "https://data.agroportal.lirmm.fr/categories/FOOD"
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/ontologies/OFSMR",
+      "@type":"http://data.bioontology.org/metadata/Ontology"
+   },
+   {
+      "name":"Catalogue des produits phytopharmaceutiques et de leurs usages, des matières fertilisantes et des supports de culture autorisés en France",
+      "hasDomain":[
+         "https://data.agroportal.lirmm.fr/categories/PHYS",
+         "https://data.agroportal.lirmm.fr/categories/FARMING",
+         "https://data.agroportal.lirmm.fr/categories/TECH"
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/ontologies/E-PHY",
+      "@type":"http://data.bioontology.org/metadata/Ontology"
+   },
+   {
+      "name":"Potato Ontology",
+      "hasDomain":[
+         "https://data.agroportal.lirmm.fr/categories/TRAITS"
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/ontologies/CO_330",
+      "@type":"http://data.bioontology.org/metadata/Ontology"
+   },
+   {
+      "name":"Agronomy Ontology",
+      "hasDomain":[
+         "https://data.agroportal.lirmm.fr/categories/NATRES",
+         "https://data.agroportal.lirmm.fr/categories/TECH"
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/ontologies/AGRO",
+      "@type":"http://data.bioontology.org/metadata/Ontology"
+   },
+   {
+      "name":"Pigeon Pea Ontology",
+      "hasDomain":[
+         "https://data.agroportal.lirmm.fr/categories/TRAITS"
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/ontologies/CO_341",
+      "@type":"http://data.bioontology.org/metadata/Ontology"
+   },
+   {
+      "name":"Bohlmann Ontology",
+      "hasDomain":[
+         "https://data.agroportal.lirmm.fr/categories/BIODIV"
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/ontologies/BOHLMANN",
+      "@type":"http://data.bioontology.org/metadata/Ontology"
+   },
+   {
+      "name":"Meat Thesaurus",
+      "hasDomain":[
+         "https://data.agroportal.lirmm.fr/categories/ANIMAL",
+         "https://data.agroportal.lirmm.fr/categories/NUTRITION"
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/ontologies/MEAT-T",
+      "@type":"http://data.bioontology.org/metadata/Ontology"
+   },
+   {
+      "name":"Semanticscience Integrated Ontology",
+      "hasDomain":[
+         
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/ontologies/SIO",
+      "@type":"http://data.bioontology.org/metadata/Ontology"
+   },
+   {
+      "name":"Food Product Ontology",
+      "hasDomain":[
+         "https://data.agroportal.lirmm.fr/categories/FOOD"
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/ontologies/FPO",
+      "@type":"http://data.bioontology.org/metadata/Ontology"
+   },
+   {
+      "name":"Plant Breeding Ontology",
+      "hasDomain":[
+         "https://data.agroportal.lirmm.fr/categories/TRAITS",
+         "https://data.agroportal.lirmm.fr/categories/GENBREEDING",
+         "https://data.agroportal.lirmm.fr/categories/GENPLANT"
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/ontologies/PBO",
+      "@type":"http://data.bioontology.org/metadata/Ontology"
+   },
+   {
+      "name":"Rice Ontology",
+      "hasDomain":[
+         "https://data.agroportal.lirmm.fr/categories/TRAITS"
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/ontologies/CO_320",
+      "@type":"http://data.bioontology.org/metadata/Ontology"
+   },
+   {
+      "name":"Bacterial interlocked Process ONtology",
+      "hasDomain":[
+         
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/ontologies/BIPON",
+      "@type":"http://data.bioontology.org/metadata/Ontology"
+   },
+   {
+      "name":"Environmental Biorefinery Ontology",
+      "hasDomain":[
+         "https://data.agroportal.lirmm.fr/categories/TECH"
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/ontologies/EBO",
+      "@type":"http://data.bioontology.org/metadata/Ontology"
+   },
+   {
+      "name":"Relations Ontology",
+      "hasDomain":[
+         
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/ontologies/RO",
+      "@type":"http://data.bioontology.org/metadata/Ontology"
+   },
+   {
+      "name":"Agroecology Knowledge Management (GECO ontology)",
+      "hasDomain":[
+         "https://data.agroportal.lirmm.fr/categories/FARMING"
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/ontologies/GECO",
+      "@type":"http://data.bioontology.org/metadata/Ontology"
+   },
+   {
+      "name":"French Crop Usage Ontology",
+      "hasDomain":[
+         "https://data.agroportal.lirmm.fr/categories/PLANT"
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/ontologies/FCUO",
+      "@type":"http://data.bioontology.org/metadata/Ontology"
+   },
+   {
+      "name":"European and Mediterranean Plant Protection Organization Ontology",
+      "hasDomain":[
+         "https://data.agroportal.lirmm.fr/categories/HEALTH",
+         "https://data.agroportal.lirmm.fr/categories/PLANT"
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/ontologies/EPPO",
+      "@type":"http://data.bioontology.org/metadata/Ontology"
+   },
+   {
+      "name":"Sweet Potato Ontology",
+      "hasDomain":[
+         "https://data.agroportal.lirmm.fr/categories/TRAITS"
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/ontologies/CO_331",
+      "@type":"http://data.bioontology.org/metadata/Ontology"
+   },
+   {
+      "name":"INIA Research Datasets",
+      "hasDomain":[
+         "https://data.agroportal.lirmm.fr/categories/TECH"
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/ontologies/INIA-RDM",
+      "@type":"http://data.bioontology.org/metadata/Ontology"
+   },
+   {
+      "name":"INRAE Thesaurus",
+      "hasDomain":[
+         "https://data.agroportal.lirmm.fr/categories/PHYS",
+         "https://data.agroportal.lirmm.fr/categories/FARMING",
+         "https://data.agroportal.lirmm.fr/categories/TRAITS",
+         "https://data.agroportal.lirmm.fr/categories/GENBREEDING",
+         "https://data.agroportal.lirmm.fr/categories/PLANTDEV",
+         "https://data.agroportal.lirmm.fr/categories/NATRES",
+         "https://data.agroportal.lirmm.fr/categories/FOOD",
+         "https://data.agroportal.lirmm.fr/categories/ANIMAL",
+         "https://data.agroportal.lirmm.fr/categories/TECH",
+         "https://data.agroportal.lirmm.fr/categories/HEALTH",
+         "https://data.agroportal.lirmm.fr/categories/ENTOM",
+         "https://data.agroportal.lirmm.fr/categories/FISHERIES",
+         "https://data.agroportal.lirmm.fr/categories/BIODIV",
+         "https://data.agroportal.lirmm.fr/categories/PLANT",
+         "https://data.agroportal.lirmm.fr/categories/GENPLANT",
+         "https://data.agroportal.lirmm.fr/categories/GOVT",
+         "https://data.agroportal.lirmm.fr/categories/FORESTRY",
+         "https://data.agroportal.lirmm.fr/categories/NUTRITION",
+         "https://data.agroportal.lirmm.fr/categories/TAX",
+         "https://data.agroportal.lirmm.fr/categories/RURAL"
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/ontologies/INRAETHES",
+      "@type":"http://data.bioontology.org/metadata/Ontology"
+   },
+   {
+      "name":"Plant Gall Ontology",
+      "hasDomain":[
+         "https://data.agroportal.lirmm.fr/categories/TRAITS",
+         "https://data.agroportal.lirmm.fr/categories/PLANT"
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/ontologies/GALLONT",
+      "@type":"http://data.bioontology.org/metadata/Ontology"
+   },
+   {
+      "name":"Biological interlocked Process Ontology for metabolism",
+      "hasDomain":[
+         
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/ontologies/BIPOM",
+      "@type":"http://data.bioontology.org/metadata/Ontology"
+   },
+   {
+      "name":"Sustainable Development Goals Interface Ontology",
+      "hasDomain":[
+         "https://data.agroportal.lirmm.fr/categories/NATRES",
+         "https://data.agroportal.lirmm.fr/categories/BIODIV"
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/ontologies/SDGIO",
+      "@type":"http://data.bioontology.org/metadata/Ontology"
+   },
+   {
+      "name":"Wheat Ontology",
+      "hasDomain":[
+         "https://data.agroportal.lirmm.fr/categories/TRAITS"
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/ontologies/CO_321",
+      "@type":"http://data.bioontology.org/metadata/Ontology"
+   },
+   {
+      "name":"Agriculture Activity Ontology",
+      "hasDomain":[
+         "https://data.agroportal.lirmm.fr/categories/FARMING"
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/ontologies/AAO",
+      "@type":"http://data.bioontology.org/metadata/Ontology"
+   },
+   {
+      "name":"SIREN",
+      "hasDomain":[
+         "https://data.agroportal.lirmm.fr/categories/NUTRITION"
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/ontologies/SIREN",
+      "@type":"http://data.bioontology.org/metadata/Ontology"
+   },
+   {
+      "name":"Feature Annotation Location Description Ontology",
+      "hasDomain":[
+         "https://data.agroportal.lirmm.fr/categories/GENPLANT"
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/ontologies/FALDO",
+      "@type":"http://data.bioontology.org/metadata/Ontology"
+   },
+   {
+      "name":"Experimental Factor Ontology",
+      "hasDomain":[
+         
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/ontologies/EFO",
+      "@type":"http://data.bioontology.org/metadata/Ontology"
+   },
+   {
+      "name":"Plant Stress Ontology",
+      "hasDomain":[
+         
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/ontologies/PSO",
+      "@type":"http://data.bioontology.org/metadata/Ontology"
+   },
+   {
+      "name":"Food Matrix for Predictive Microbiology",
+      "hasDomain":[
+         "https://data.agroportal.lirmm.fr/categories/FOOD"
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/ontologies/FMPM",
+      "@type":"http://data.bioontology.org/metadata/Ontology"
+   },
+   {
+      "name":"Variation Ontology",
+      "hasDomain":[
+         
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/ontologies/VARIO",
+      "@type":"http://data.bioontology.org/metadata/Ontology"
+   },
+   {
+      "name":"Semantic Sensor Network Ontology",
+      "hasDomain":[
+         "https://data.agroportal.lirmm.fr/categories/NATRES",
+         "https://data.agroportal.lirmm.fr/categories/TECH"
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/ontologies/SSN",
+      "@type":"http://data.bioontology.org/metadata/Ontology"
+   },
+   {
+      "name":"Crop Vocabulary",
+      "hasDomain":[
+         "https://data.agroportal.lirmm.fr/categories/TECH"
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/ontologies/CVO",
+      "@type":"http://data.bioontology.org/metadata/Ontology"
+   },
+   {
+      "name":"AGRORDF",
+      "hasDomain":[
+         "https://data.agroportal.lirmm.fr/categories/FARMING"
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/ontologies/AGRORDF",
+      "@type":"http://data.bioontology.org/metadata/Ontology"
+   },
+   {
+      "name":"FAO WCA Crop",
+      "hasDomain":[
+         "https://data.agroportal.lirmm.fr/categories/FARMING",
+         "https://data.agroportal.lirmm.fr/categories/PLANT"
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/ontologies/WCACROPS",
+      "@type":"http://data.bioontology.org/metadata/Ontology"
+   },
+   {
+      "name":"The Extensible Observation Ontology",
+      "hasDomain":[
+         "https://data.agroportal.lirmm.fr/categories/NATRES",
+         "https://data.agroportal.lirmm.fr/categories/BIODIV"
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/ontologies/OBOE",
+      "@type":"http://data.bioontology.org/metadata/Ontology"
+   },
+   {
+      "name":"Fababean Ontology",
+      "hasDomain":[
+         "https://data.agroportal.lirmm.fr/categories/TRAITS"
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/ontologies/CO_365",
+      "@type":"http://data.bioontology.org/metadata/Ontology"
+   },
+   {
+      "name":"GoMapMan - proteins",
+      "hasDomain":[
+         "https://data.agroportal.lirmm.fr/categories/PHYS",
+         "https://data.agroportal.lirmm.fr/categories/PLANT",
+         "https://data.agroportal.lirmm.fr/categories/GENPLANT"
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/ontologies/GMM_P",
+      "@type":"http://data.bioontology.org/metadata/Ontology"
+   },
+   {
+      "name":"Biorefinery",
+      "hasDomain":[
+         "https://data.agroportal.lirmm.fr/categories/TECH"
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/ontologies/BIOREFINERY",
+      "@type":"http://data.bioontology.org/metadata/Ontology"
+   },
+   {
+      "name":"Ontology of Biological Attributes",
+      "hasDomain":[
+         "https://data.agroportal.lirmm.fr/categories/TRAITS",
+         "https://data.agroportal.lirmm.fr/categories/TAX"
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/ontologies/OBA",
+      "@type":"http://data.bioontology.org/metadata/Ontology"
+   },
+   {
+      "name":"Maize Ontology",
+      "hasDomain":[
+         "https://data.agroportal.lirmm.fr/categories/TRAITS"
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/ontologies/CO_322",
+      "@type":"http://data.bioontology.org/metadata/Ontology"
+   },
+   {
+      "name":"Food-Biomarker Ontology",
+      "hasDomain":[
+         "https://data.agroportal.lirmm.fr/categories/NUTRITION"
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/ontologies/FOBI",
+      "@type":"http://data.bioontology.org/metadata/Ontology"
+   },
+   {
+      "name":"BioAGgressor Ontology",
+      "hasDomain":[
+         "https://data.agroportal.lirmm.fr/categories/ANIMAL",
+         "https://data.agroportal.lirmm.fr/categories/ENTOM",
+         "https://data.agroportal.lirmm.fr/categories/BIODIV",
+         "https://data.agroportal.lirmm.fr/categories/PLANT"
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/ontologies/BAGO",
+      "@type":"http://data.bioontology.org/metadata/Ontology"
+   },
+   {
+      "name":"Comparative Data Analysis Ontology",
+      "hasDomain":[
+         
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/ontologies/CDAO",
+      "@type":"http://data.bioontology.org/metadata/Ontology"
+   },
+   {
+      "name":"Banana Ontology",
+      "hasDomain":[
+         "https://data.agroportal.lirmm.fr/categories/TRAITS"
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/ontologies/CO_325",
+      "@type":"http://data.bioontology.org/metadata/Ontology"
+   },
+   {
+      "name":"Aquatic Food Ontology",
+      "hasDomain":[
+         "https://data.agroportal.lirmm.fr/categories/FISHERIES"
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/ontologies/AQFO",
+      "@type":"http://data.bioontology.org/metadata/Ontology"
+   },
+   {
+      "name":"Socio-Economic Ontology",
+      "hasDomain":[
+         
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/ontologies/SEONT",
+      "@type":"http://data.bioontology.org/metadata/Ontology"
+   },
+   {
+      "name":"WhatToMake Individuals Ontology",
+      "hasDomain":[
+         "https://data.agroportal.lirmm.fr/categories/FOOD"
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/ontologies/WTM-IO",
+      "@type":"http://data.bioontology.org/metadata/Ontology"
+   },
+   {
+      "name":"Cerrado Concepts and Plant Community Dynamics",
+      "hasDomain":[
+         "https://data.agroportal.lirmm.fr/categories/PLANTDEV",
+         "https://data.agroportal.lirmm.fr/categories/FORESTRY"
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/ontologies/CCON",
+      "@type":"http://data.bioontology.org/metadata/Ontology"
+   },
+   {
+      "name":"Protein Ontology",
+      "hasDomain":[
+         "https://data.agroportal.lirmm.fr/categories/GENPLANT"
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/ontologies/PR",
+      "@type":"http://data.bioontology.org/metadata/Ontology"
+   },
+   {
+      "name":"Rice Treatment Ontology",
+      "hasDomain":[
+         "https://data.agroportal.lirmm.fr/categories/PHYS",
+         "https://data.agroportal.lirmm.fr/categories/HEALTH"
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/ontologies/TREATO",
+      "@type":"http://data.bioontology.org/metadata/Ontology"
+   },
+   {
+      "name":"Soil Food Web Ontology",
+      "hasDomain":[
+         "https://data.agroportal.lirmm.fr/categories/BIODIV"
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/ontologies/SFWO",
+      "@type":"http://data.bioontology.org/metadata/Ontology"
+   },
+   {
+      "name":"Brachiaria Ontology",
+      "hasDomain":[
+         "https://data.agroportal.lirmm.fr/categories/TRAITS"
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/ontologies/CO_345",
+      "@type":"http://data.bioontology.org/metadata/Ontology"
+   },
+   {
+      "name":"AgronomicTaxon",
+      "hasDomain":[
+         "https://data.agroportal.lirmm.fr/categories/TAX"
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/ontologies/ATC",
+      "@type":"http://data.bioontology.org/metadata/Ontology"
+   },
+   {
+      "name":"Banana Anatomy",
+      "hasDomain":[
+         "https://data.agroportal.lirmm.fr/categories/PLANTDEV"
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/ontologies/CO_125",
+      "@type":"http://data.bioontology.org/metadata/Ontology"
+   },
+   {
+      "name":"Plant Trait Ontology",
+      "hasDomain":[
+         "https://data.agroportal.lirmm.fr/categories/TRAITS",
+         "https://data.agroportal.lirmm.fr/categories/BIODIV",
+         "https://data.agroportal.lirmm.fr/categories/PLANT"
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/ontologies/TO",
+      "@type":"http://data.bioontology.org/metadata/Ontology"
+   },
+   {
+      "name":"Rice Diseases Ontology",
+      "hasDomain":[
+         "https://data.agroportal.lirmm.fr/categories/TRAITS",
+         "https://data.agroportal.lirmm.fr/categories/PLANTDEV",
+         "https://data.agroportal.lirmm.fr/categories/HEALTH",
+         "https://data.agroportal.lirmm.fr/categories/PLANT"
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/ontologies/RICEDO",
+      "@type":"http://data.bioontology.org/metadata/Ontology"
+   },
+   {
+      "name":"Process and Observation Ontology",
+      "hasDomain":[
+         "https://data.agroportal.lirmm.fr/categories/TECH",
+         "https://data.agroportal.lirmm.fr/categories/BIODIV"
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/ontologies/PO2",
+      "@type":"http://data.bioontology.org/metadata/Ontology"
+   },
+   {
+      "name":"Biological Collections Ontology",
+      "hasDomain":[
+         "https://data.agroportal.lirmm.fr/categories/BIODIV",
+         "https://data.agroportal.lirmm.fr/categories/TAX"
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/ontologies/BCO",
+      "@type":"http://data.bioontology.org/metadata/Ontology"
+   },
+   {
+      "name":"AnaEE Thesaurus",
+      "hasDomain":[
+         "https://data.agroportal.lirmm.fr/categories/NATRES",
+         "https://data.agroportal.lirmm.fr/categories/TECH",
+         "https://data.agroportal.lirmm.fr/categories/BIODIV"
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/ontologies/ANAEETHES",
+      "@type":"http://data.bioontology.org/metadata/Ontology"
+   },
+   {
+      "name":"EDAM bioinformatics operations, data types, formats, identifiers and topics",
+      "hasDomain":[
+         
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/ontologies/EDAM",
+      "@type":"http://data.bioontology.org/metadata/Ontology"
+   },
+   {
+      "name":"Livestock Health Ontology ",
+      "hasDomain":[
+         "https://data.agroportal.lirmm.fr/categories/FARMING",
+         "https://data.agroportal.lirmm.fr/categories/GEO",
+         "https://data.agroportal.lirmm.fr/categories/ANIMAL",
+         "https://data.agroportal.lirmm.fr/categories/TECH",
+         "https://data.agroportal.lirmm.fr/categories/HEALTH",
+         "https://data.agroportal.lirmm.fr/categories/FISHERIES"
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/ontologies/LHO",
+      "@type":"http://data.bioontology.org/metadata/Ontology"
+   },
+   {
+      "name":"FoodOn",
+      "hasDomain":[
+         "https://data.agroportal.lirmm.fr/categories/FOOD",
+         "https://data.agroportal.lirmm.fr/categories/ANIMAL",
+         "https://data.agroportal.lirmm.fr/categories/PLANT",
+         "https://data.agroportal.lirmm.fr/categories/NUTRITION"
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/ontologies/FOODON",
+      "@type":"http://data.bioontology.org/metadata/Ontology"
+   },
+   {
+      "name":"Common Bean Ontology",
+      "hasDomain":[
+         "https://data.agroportal.lirmm.fr/categories/TRAITS"
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/ontologies/CO_335",
+      "@type":"http://data.bioontology.org/metadata/Ontology"
+   },
+   {
+      "name":"Wine Descriptors Ontology",
+      "hasDomain":[
+         "https://data.agroportal.lirmm.fr/categories/TECH",
+         "https://data.agroportal.lirmm.fr/categories/NUTRITION"
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/ontologies/FLAIR",
+      "@type":"http://data.bioontology.org/metadata/Ontology"
+   },
+   {
+      "name":"Barley Trait POLAPGEN Ontology",
+      "hasDomain":[
+         "https://data.agroportal.lirmm.fr/categories/TRAITS"
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/ontologies/POLAPGEN_BARLEY",
+      "@type":"http://data.bioontology.org/metadata/Ontology"
+   },
+   {
+      "name":"Ploutos Common Semantic Model",
+      "hasDomain":[
+         "https://data.agroportal.lirmm.fr/categories/FARMING",
+         "https://data.agroportal.lirmm.fr/categories/FOOD"
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/ontologies/PCSM",
+      "@type":"http://data.bioontology.org/metadata/Ontology"
+   },
+   {
+      "name":"GoMapMan - metabolites",
+      "hasDomain":[
+         "https://data.agroportal.lirmm.fr/categories/PHYS",
+         "https://data.agroportal.lirmm.fr/categories/PLANT",
+         "https://data.agroportal.lirmm.fr/categories/GENPLANT"
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/ontologies/GMM_M",
+      "@type":"http://data.bioontology.org/metadata/Ontology"
+   },
+   {
+      "name":"Ontology of units of Measure",
+      "hasDomain":[
+         
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/ontologies/OM",
+      "@type":"http://data.bioontology.org/metadata/Ontology"
+   },
+   {
+      "name":"Compositional Dietary Nutrition Ontology",
+      "hasDomain":[
+         "https://data.agroportal.lirmm.fr/categories/FOOD",
+         "https://data.agroportal.lirmm.fr/categories/FISHERIES",
+         "https://data.agroportal.lirmm.fr/categories/GENPLANT",
+         "https://data.agroportal.lirmm.fr/categories/NUTRITION"
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/ontologies/CDNO",
+      "@type":"http://data.bioontology.org/metadata/Ontology"
+   },
+   {
+      "name":"French Crop Usage thesaurus (Classification des plantes cultivées en France en fonction des usages)",
+      "hasDomain":[
+         "https://data.agroportal.lirmm.fr/categories/TECH",
+         "https://data.agroportal.lirmm.fr/categories/PLANT"
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/ontologies/CROPUSAGE",
+      "@type":"http://data.bioontology.org/metadata/Ontology"
+   },
+   {
+      "name":"Food Safety Monitoring Ontology",
+      "hasDomain":[
+         "https://data.agroportal.lirmm.fr/categories/PHYS",
+         "https://data.agroportal.lirmm.fr/categories/TRAITS",
+         "https://data.agroportal.lirmm.fr/categories/FOOD",
+         "https://data.agroportal.lirmm.fr/categories/TECH"
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/ontologies/FSO",
+      "@type":"http://data.bioontology.org/metadata/Ontology"
+   },
+   {
+      "name":"Vitis Ontology",
+      "hasDomain":[
+         "https://data.agroportal.lirmm.fr/categories/TRAITS"
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/ontologies/CO_356",
+      "@type":"http://data.bioontology.org/metadata/Ontology"
+   },
+   {
+      "name":"Mungbean Ontology",
+      "hasDomain":[
+         "https://data.agroportal.lirmm.fr/categories/TRAITS"
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/ontologies/CO_346",
+      "@type":"http://data.bioontology.org/metadata/Ontology"
+   },
+   {
+      "name":"Smart Applications REFerence ontology",
+      "hasDomain":[
+         "https://data.agroportal.lirmm.fr/categories/TECH"
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/ontologies/SAREF",
+      "@type":"http://data.bioontology.org/metadata/Ontology"
+   },
+   {
+      "name":"XEML Environment Ontology",
+      "hasDomain":[
+         
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/ontologies/XEO",
+      "@type":"http://data.bioontology.org/metadata/Ontology"
+   },
+   {
+      "name":"Animal Disease Ontology",
+      "hasDomain":[
+         "https://data.agroportal.lirmm.fr/categories/ANIMAL",
+         "https://data.agroportal.lirmm.fr/categories/HEALTH"
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/ontologies/ANDO",
+      "@type":"http://data.bioontology.org/metadata/Ontology"
+   },
+   {
+      "name":"SAREF4AGRI: an extension of SAREF for the agriculture and food domain",
+      "hasDomain":[
+         "https://data.agroportal.lirmm.fr/categories/TECH"
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/ontologies/SAREF4AGRI",
+      "@type":"http://data.bioontology.org/metadata/Ontology"
+   },
+   {
+      "name":"Solanaceae Phenotype Ontology",
+      "hasDomain":[
+         "https://data.agroportal.lirmm.fr/categories/TRAITS",
+         "https://data.agroportal.lirmm.fr/categories/GENBREEDING"
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/ontologies/SPTO",
+      "@type":"http://data.bioontology.org/metadata/Ontology"
+   },
+   {
+      "name":"Bambara Groundnut Ontology",
+      "hasDomain":[
+         "https://data.agroportal.lirmm.fr/categories/TRAITS"
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/ontologies/CO_366",
+      "@type":"http://data.bioontology.org/metadata/Ontology"
+   },
+   {
+      "name":"DECIDE ontology",
+      "hasDomain":[
+         "https://data.agroportal.lirmm.fr/categories/ANIMAL",
+         "https://data.agroportal.lirmm.fr/categories/TECH"
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/ontologies/DECIDE",
+      "@type":"http://data.bioontology.org/metadata/Ontology"
+   },
+   {
+      "name":"Livestock Product Trait Ontology",
+      "hasDomain":[
+         "https://data.agroportal.lirmm.fr/categories/ANIMAL"
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/ontologies/LPT",
+      "@type":"http://data.bioontology.org/metadata/Ontology"
+   },
+   {
+      "name":"Environment Ontology for Livestock",
+      "hasDomain":[
+         "https://data.agroportal.lirmm.fr/categories/ANIMAL"
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/ontologies/EOL",
+      "@type":"http://data.bioontology.org/metadata/Ontology"
+   },
+   {
+      "name":"Ontology for Food Processing Experiment",
+      "hasDomain":[
+         "https://data.agroportal.lirmm.fr/categories/NUTRITION"
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/ontologies/OFPE",
+      "@type":"http://data.bioontology.org/metadata/Ontology"
+   },
+   {
+      "name":"Agri-food vocabulary",
+      "hasDomain":[
+         "https://data.agroportal.lirmm.fr/categories/TECH",
+         "https://data.agroportal.lirmm.fr/categories/NUTRITION"
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/ontologies/AGFOOD",
+      "@type":"http://data.bioontology.org/metadata/Ontology"
+   },
+   {
+      "name":"Plant Experimental Assay Ontology",
+      "hasDomain":[
+         "https://data.agroportal.lirmm.fr/categories/PLANTDEV"
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/ontologies/PEAO",
+      "@type":"http://data.bioontology.org/metadata/Ontology"
+   },
+   {
+      "name":"Crop Research Ontology",
+      "hasDomain":[
+         "https://data.agroportal.lirmm.fr/categories/TECH",
+         "https://data.agroportal.lirmm.fr/categories/PLANT"
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/ontologies/CO_715",
+      "@type":"http://data.bioontology.org/metadata/Ontology"
+   },
+   {
+      "name":"Barley Ontology",
+      "hasDomain":[
+         "https://data.agroportal.lirmm.fr/categories/TRAITS"
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/ontologies/CO_323",
+      "@type":"http://data.bioontology.org/metadata/Ontology"
+   },
+   {
+      "name":"Thesaurus to define land management practices in agriculture and forestry for soil carbon storage",
+      "hasDomain":[
+         "https://data.agroportal.lirmm.fr/categories/TECH"
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/ontologies/DATA4CPLUS",
+      "@type":"http://data.bioontology.org/metadata/Ontology"
+   },
+   {
+      "name":"OntoBiotope",
+      "hasDomain":[
+         "https://data.agroportal.lirmm.fr/categories/NATRES",
+         "https://data.agroportal.lirmm.fr/categories/BIODIV"
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/ontologies/ONTOBIOTOPE",
+      "@type":"http://data.bioontology.org/metadata/Ontology"
+   },
+   {
+      "name":"Linked Land Governance Thesaurus",
+      "hasDomain":[
+         "https://data.agroportal.lirmm.fr/categories/GEO",
+         "https://data.agroportal.lirmm.fr/categories/GOVT"
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/ontologies/LANDVOC",
+      "@type":"http://data.bioontology.org/metadata/Ontology"
+   },
+   {
+      "name":"agINFRA Soil Vocabulary",
+      "hasDomain":[
+         "https://data.agroportal.lirmm.fr/categories/NATRES"
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/ontologies/SOIL",
+      "@type":"http://data.bioontology.org/metadata/Ontology"
+   },
+   {
+      "name":"Coconut Ontology",
+      "hasDomain":[
+         "https://data.agroportal.lirmm.fr/categories/TRAITS"
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/ontologies/CO_326",
+      "@type":"http://data.bioontology.org/metadata/Ontology"
+   },
+   {
+      "name":"CoSWoT Core ontology",
+      "hasDomain":[
+         "https://data.agroportal.lirmm.fr/categories/TECH"
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/ontologies/COSWOT",
+      "@type":"http://data.bioontology.org/metadata/Ontology"
+   },
+   {
+      "name":"Multi-Crop Passport Ontology",
+      "hasDomain":[
+         "https://data.agroportal.lirmm.fr/categories/GENPLANT"
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/ontologies/CO_020",
+      "@type":"http://data.bioontology.org/metadata/Ontology"
+   },
+   {
+      "name":"Yam Ontology",
+      "hasDomain":[
+         "https://data.agroportal.lirmm.fr/categories/TRAITS"
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/ontologies/CO_343",
+      "@type":"http://data.bioontology.org/metadata/Ontology"
+   },
+   {
+      "name":"Matter Transfer Ontology",
+      "hasDomain":[
+         "https://data.agroportal.lirmm.fr/categories/FOOD",
+         "https://data.agroportal.lirmm.fr/categories/TECH",
+         "https://data.agroportal.lirmm.fr/categories/NUTRITION"
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/ontologies/TRANSMAT",
+      "@type":"http://data.bioontology.org/metadata/Ontology"
+   },
+   {
+      "name":"Gramene Taxonomy Ontology",
+      "hasDomain":[
+         "https://data.agroportal.lirmm.fr/categories/TAX"
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/ontologies/GR-TAX",
+      "@type":"http://data.bioontology.org/metadata/Ontology"
+   },
+   {
+      "name":"Ontobiotope_Use",
+      "hasDomain":[
+         "https://data.agroportal.lirmm.fr/categories/TECH"
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/ontologies/USE",
+      "@type":"http://data.bioontology.org/metadata/Ontology"
+   },
+   {
+      "name":"Environment Ontology",
+      "hasDomain":[
+         "https://data.agroportal.lirmm.fr/categories/NATRES",
+         "https://data.agroportal.lirmm.fr/categories/BIODIV"
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/ontologies/ENVO",
+      "@type":"http://data.bioontology.org/metadata/Ontology"
+   },
+   {
+      "name":"Thesaurus Agrícola Nacional",
+      "hasDomain":[
+         "https://data.agroportal.lirmm.fr/categories/FARMING",
+         "https://data.agroportal.lirmm.fr/categories/GENBREEDING",
+         "https://data.agroportal.lirmm.fr/categories/PLANTDEV",
+         "https://data.agroportal.lirmm.fr/categories/NATRES",
+         "https://data.agroportal.lirmm.fr/categories/FOOD",
+         "https://data.agroportal.lirmm.fr/categories/ANIMAL",
+         "https://data.agroportal.lirmm.fr/categories/TECH",
+         "https://data.agroportal.lirmm.fr/categories/ENTOM",
+         "https://data.agroportal.lirmm.fr/categories/FISHERIES",
+         "https://data.agroportal.lirmm.fr/categories/PLANT",
+         "https://data.agroportal.lirmm.fr/categories/FORESTRY",
+         "https://data.agroportal.lirmm.fr/categories/RURAL"
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/ontologies/THESAGRO",
+      "@type":"http://data.bioontology.org/metadata/Ontology"
+   },
+   {
+      "name":"SmartProducts Network of Ontologies Food Nutrition Data",
+      "hasDomain":[
+         "https://data.agroportal.lirmm.fr/categories/FOOD",
+         "https://data.agroportal.lirmm.fr/categories/HEALTH"
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/ontologies/SPO-FND",
+      "@type":"http://data.bioontology.org/metadata/Ontology"
+   },
+   {
+      "name":"Biodiversity Thesaurus",
+      "hasDomain":[
+         "https://data.agroportal.lirmm.fr/categories/NATRES",
+         "https://data.agroportal.lirmm.fr/categories/BIODIV"
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/ontologies/BIODIVTHES",
+      "@type":"http://data.bioontology.org/metadata/Ontology"
+   },
+   {
+      "name":"Agri-Food Experiment Ontology",
+      "hasDomain":[
+         "https://data.agroportal.lirmm.fr/categories/TECH",
+         "https://data.agroportal.lirmm.fr/categories/NUTRITION"
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/ontologies/AFEO",
+      "@type":"http://data.bioontology.org/metadata/Ontology"
+   },
+   {
+      "name":"Cell Ontology",
+      "hasDomain":[
+         "https://data.agroportal.lirmm.fr/categories/ANIMAL"
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/ontologies/CL",
+      "@type":"http://data.bioontology.org/metadata/Ontology"
+   },
+   {
+      "name":"Beet Ontology",
+      "hasDomain":[
+         "https://data.agroportal.lirmm.fr/categories/TRAITS"
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/ontologies/CO_333",
+      "@type":"http://data.bioontology.org/metadata/Ontology"
+   },
+   {
+      "name":"Taxonomic Rank Ontology",
+      "hasDomain":[
+         "https://data.agroportal.lirmm.fr/categories/TAX"
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/ontologies/TAXRANK",
+      "@type":"http://data.bioontology.org/metadata/Ontology"
+   },
+   {
+      "name":"GEneral Multilingual Environmental Thesaurus",
+      "hasDomain":[
+         "https://data.agroportal.lirmm.fr/categories/NATRES",
+         "https://data.agroportal.lirmm.fr/categories/BIODIV"
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/ontologies/GEMET",
+      "@type":"http://data.bioontology.org/metadata/Ontology"
+   },
+   {
+      "name":"Wheat Taxa Gold Standard",
+      "hasDomain":[
+         "https://data.agroportal.lirmm.fr/categories/TAX"
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/ontologies/WHEAT_TAX",
+      "@type":"http://data.bioontology.org/metadata/Ontology"
+   },
+   {
+      "name":"Phenotype And Trait Ontology",
+      "hasDomain":[
+         "https://data.agroportal.lirmm.fr/categories/TRAITS",
+         "https://data.agroportal.lirmm.fr/categories/BIODIV"
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/ontologies/PATO",
+      "@type":"http://data.bioontology.org/metadata/Ontology"
+   },
+   {
+      "name":"A stratified lexicon of water related geophysical and textual data",
+      "hasDomain":[
+         "https://data.agroportal.lirmm.fr/categories/NATRES"
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/ontologies/LEXEAU",
+      "@type":"http://data.bioontology.org/metadata/Ontology"
+   },
+   {
+      "name":"Soybean Ontology",
+      "hasDomain":[
+         "https://data.agroportal.lirmm.fr/categories/TRAITS"
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/ontologies/CO_336",
+      "@type":"http://data.bioontology.org/metadata/Ontology"
+   },
+   {
+      "name":"WhatToMake Base Ontology",
+      "hasDomain":[
+         "https://data.agroportal.lirmm.fr/categories/FOOD"
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/ontologies/WTM-BO",
+      "@type":"http://data.bioontology.org/metadata/Ontology"
+   },
+   {
+      "name":"National Center for Biotechnology Information (NCBI) Organismal Classification",
+      "hasDomain":[
+         "https://data.agroportal.lirmm.fr/categories/TAX"
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/ontologies/NCBITAXON",
+      "@type":"http://data.bioontology.org/metadata/Ontology"
+   },
+   {
+      "name":"Vocabulário controlado de geoinformação",
+      "hasDomain":[
+         "https://data.agroportal.lirmm.fr/categories/GEO"
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/ontologies/VOCGEO",
+      "@type":"http://data.bioontology.org/metadata/Ontology"
+   },
+   {
+      "name":"Indicative Crop Classification",
+      "hasDomain":[
+         "https://data.agroportal.lirmm.fr/categories/FARMING",
+         "https://data.agroportal.lirmm.fr/categories/PLANT"
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/ontologies/ICC",
+      "@type":"http://data.bioontology.org/metadata/Ontology"
+   },
+   {
+      "name":"Thesaurus for Animal Physiology and Livestock Systems",
+      "hasDomain":[
+         "https://data.agroportal.lirmm.fr/categories/ANIMAL"
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/ontologies/TRIPHASE",
+      "@type":"http://data.bioontology.org/metadata/Ontology"
+   },
+   {
+      "name":"Darwin-SW",
+      "hasDomain":[
+         "https://data.agroportal.lirmm.fr/categories/BIODIV",
+         "https://data.agroportal.lirmm.fr/categories/TAX"
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/ontologies/DSW",
+      "@type":"http://data.bioontology.org/metadata/Ontology"
+   },
+   {
+      "name":"Terminology of French bread descriptors",
+      "hasDomain":[
+         "https://data.agroportal.lirmm.fr/categories/NUTRITION"
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/ontologies/ASCOPAIN-T",
+      "@type":"http://data.bioontology.org/metadata/Ontology"
+   },
+   {
+      "name":"Wheat Plant Anatomy and Development Ontology",
+      "hasDomain":[
+         "https://data.agroportal.lirmm.fr/categories/PLANTDEV"
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/ontologies/CO_121",
+      "@type":"http://data.bioontology.org/metadata/Ontology"
+   },
+   {
+      "name":"Woody Plant Ontology",
+      "hasDomain":[
+         "https://data.agroportal.lirmm.fr/categories/TRAITS"
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/ontologies/CO_357",
+      "@type":"http://data.bioontology.org/metadata/Ontology"
+   },
+   {
+      "name":"Soy Ontology",
+      "hasDomain":[
+         "https://data.agroportal.lirmm.fr/categories/TRAITS"
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/ontologies/SOY",
+      "@type":"http://data.bioontology.org/metadata/Ontology"
+   },
+   {
+      "name":"Food Classification and Description System (from FSA Food Type identifiers)",
+      "hasDomain":[
+         "https://data.agroportal.lirmm.fr/categories/FOOD",
+         "https://data.agroportal.lirmm.fr/categories/NUTRITION"
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/ontologies/FOODEX2",
+      "@type":"http://data.bioontology.org/metadata/Ontology"
+   },
+   {
+      "name":"Crop Planning and Production Process Ontology",
+      "hasDomain":[
+         "https://data.agroportal.lirmm.fr/categories/TECH"
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/ontologies/C3PO",
+      "@type":"http://data.bioontology.org/metadata/Ontology"
+   },
+   {
+      "name":"Ontology of Experimental Events",
+      "hasDomain":[
+         "https://data.agroportal.lirmm.fr/categories/TRAITS"
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/ontologies/OEEV",
+      "@type":"http://data.bioontology.org/metadata/Ontology"
+   },
+   {
+      "name":"Soil organic carbon storage and agricultural practices modeling",
+      "hasDomain":[
+         
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/ontologies/CSOPRA",
+      "@type":"http://data.bioontology.org/metadata/Ontology"
+   },
+   {
+      "name":"Food Item Ontology",
+      "hasDomain":[
+         "https://data.agroportal.lirmm.fr/categories/FOOD",
+         "https://data.agroportal.lirmm.fr/categories/NUTRITION"
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/ontologies/FIO",
+      "@type":"http://data.bioontology.org/metadata/Ontology"
+   },
+   {
+      "name":"Castor Bean Ontology",
+      "hasDomain":[
+         "https://data.agroportal.lirmm.fr/categories/TRAITS"
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/ontologies/CO_347",
+      "@type":"http://data.bioontology.org/metadata/Ontology"
+   },
+   {
+      "name":"Groundnut Ontology",
+      "hasDomain":[
+         "https://data.agroportal.lirmm.fr/categories/TRAITS"
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/ontologies/CO_337",
+      "@type":"http://data.bioontology.org/metadata/Ontology"
+   },
+   {
+      "name":"Animal Health Ontology for Livestock",
+      "hasDomain":[
+         "https://data.agroportal.lirmm.fr/categories/ANIMAL",
+         "https://data.agroportal.lirmm.fr/categories/HEALTH"
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/ontologies/AHOL",
+      "@type":"http://data.bioontology.org/metadata/Ontology"
+   },
+   {
+      "name":"Vertebrate Trait Ontology",
+      "hasDomain":[
+         "https://data.agroportal.lirmm.fr/categories/TRAITS",
+         "https://data.agroportal.lirmm.fr/categories/ANIMAL"
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/ontologies/VT",
+      "@type":"http://data.bioontology.org/metadata/Ontology"
+   },
+   {
+      "name":"Units of Measurement Ontology",
+      "hasDomain":[
+         "https://data.agroportal.lirmm.fr/categories/TRAITS"
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/ontologies/UO",
+      "@type":"http://data.bioontology.org/metadata/Ontology"
+   },
+   {
+      "name":"Ontology for Experimental Scientific Objects Core",
+      "hasDomain":[
+         "https://data.agroportal.lirmm.fr/categories/TECH"
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/ontologies/OESO-CORE",
+      "@type":"http://data.bioontology.org/metadata/Ontology"
+   },
+   {
+      "name":"National Agricultural Library Thesaurus",
+      "hasDomain":[
+         "https://data.agroportal.lirmm.fr/categories/FARMING",
+         "https://data.agroportal.lirmm.fr/categories/GEO",
+         "https://data.agroportal.lirmm.fr/categories/PLANTDEV",
+         "https://data.agroportal.lirmm.fr/categories/NATRES",
+         "https://data.agroportal.lirmm.fr/categories/FOOD",
+         "https://data.agroportal.lirmm.fr/categories/ANIMAL",
+         "https://data.agroportal.lirmm.fr/categories/TECH",
+         "https://data.agroportal.lirmm.fr/categories/PLANT",
+         "https://data.agroportal.lirmm.fr/categories/GOVT",
+         "https://data.agroportal.lirmm.fr/categories/FORESTRY",
+         "https://data.agroportal.lirmm.fr/categories/NUTRITION",
+         "https://data.agroportal.lirmm.fr/categories/TAX",
+         "https://data.agroportal.lirmm.fr/categories/RURAL"
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/ontologies/NALT",
+      "@type":"http://data.bioontology.org/metadata/Ontology"
+   },
+   {
+      "name":"Ontology for Experimental Phenotypic Objects",
+      "hasDomain":[
+         "https://data.agroportal.lirmm.fr/categories/TRAITS"
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/ontologies/OEPO",
+      "@type":"http://data.bioontology.org/metadata/Ontology"
+   },
+   {
+      "name":"Quinoa Ontology",
+      "hasDomain":[
+         "https://data.agroportal.lirmm.fr/categories/TRAITS"
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/ontologies/CO_367",
+      "@type":"http://data.bioontology.org/metadata/Ontology"
+   },
+   {
+      "name":"Sorghum Ontology",
+      "hasDomain":[
+         "https://data.agroportal.lirmm.fr/categories/TRAITS"
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/ontologies/CO_324",
+      "@type":"http://data.bioontology.org/metadata/Ontology"
+   },
+   {
+      "name":"Sensor, Observation, Sample, and Actuator Ontology",
+      "hasDomain":[
+         "https://data.agroportal.lirmm.fr/categories/NATRES",
+         "https://data.agroportal.lirmm.fr/categories/TECH"
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/ontologies/SOSA",
+      "@type":"http://data.bioontology.org/metadata/Ontology"
+   },
+   {
+      "name":"Durum Wheat",
+      "hasDomain":[
+         "https://data.agroportal.lirmm.fr/categories/NUTRITION"
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/ontologies/DURUM_WHEAT",
+      "@type":"http://data.bioontology.org/metadata/Ontology"
+   },
+   {
+      "name":"OntoAgroHidro",
+      "hasDomain":[
+         "https://data.agroportal.lirmm.fr/categories/PHYS",
+         "https://data.agroportal.lirmm.fr/categories/FARMING",
+         "https://data.agroportal.lirmm.fr/categories/GEO",
+         "https://data.agroportal.lirmm.fr/categories/NATRES",
+         "https://data.agroportal.lirmm.fr/categories/TECH",
+         "https://data.agroportal.lirmm.fr/categories/BIODIV"
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/ontologies/ONTOAGROHIDRO",
+      "@type":"http://data.bioontology.org/metadata/Ontology"
+   },
+   {
+      "name":"UMLS Semantic Network",
+      "hasDomain":[
+         
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/ontologies/STY",
+      "@type":"http://data.bioontology.org/metadata/Ontology"
+   },
+   {
+      "name":"Ontology for Meteorological Sensors",
+      "hasDomain":[
+         "https://data.agroportal.lirmm.fr/categories/NATRES"
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/ontologies/AWS",
+      "@type":"http://data.bioontology.org/metadata/Ontology"
+   },
+   {
+      "name":"Milk Microfiltration Ontology",
+      "hasDomain":[
+         "https://data.agroportal.lirmm.fr/categories/ANIMAL"
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/ontologies/MICROFILTRATION",
+      "@type":"http://data.bioontology.org/metadata/Ontology"
+   },
+   {
+      "name":"Genomic Feature and Variation Ontology",
+      "hasDomain":[
+         
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/ontologies/GFVO",
+      "@type":"http://data.bioontology.org/metadata/Ontology"
+   },
+   {
+      "name":"ASFA Thesaurus",
+      "hasDomain":[
+         "https://data.agroportal.lirmm.fr/categories/FISHERIES"
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/ontologies/ASFA",
+      "@type":"http://data.bioontology.org/metadata/Ontology"
+   },
+   {
+      "name":"Context-Aware System Ontology",
+      "hasDomain":[
+         "https://data.agroportal.lirmm.fr/categories/TECH"
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/ontologies/CASO",
+      "@type":"http://data.bioontology.org/metadata/Ontology"
+   },
+   {
+      "name":"InfraRisk Ontology",
+      "hasDomain":[
+         "https://data.agroportal.lirmm.fr/categories/NATRES"
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/ontologies/INFRARISK",
+      "@type":"http://data.bioontology.org/metadata/Ontology"
+   },
+   {
+      "name":"Pearl Millet Ontology",
+      "hasDomain":[
+         "https://data.agroportal.lirmm.fr/categories/TRAITS"
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/ontologies/CO_327",
+      "@type":"http://data.bioontology.org/metadata/Ontology"
+   },
+   {
+      "name":"AGROVOC",
+      "hasDomain":[
+         "https://data.agroportal.lirmm.fr/categories/FARMING",
+         "https://data.agroportal.lirmm.fr/categories/NATRES",
+         "https://data.agroportal.lirmm.fr/categories/TECH",
+         "https://data.agroportal.lirmm.fr/categories/FISHERIES",
+         "https://data.agroportal.lirmm.fr/categories/FORESTRY"
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/ontologies/AGROVOC",
+      "@type":"http://data.bioontology.org/metadata/Ontology"
+   },
+   {
+      "name":"Reproductive Trait and Phenotype Ontology",
+      "hasDomain":[
+         "https://data.agroportal.lirmm.fr/categories/ANIMAL"
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/ontologies/REPO",
+      "@type":"http://data.bioontology.org/metadata/Ontology"
+   },
+   {
+      "name":"Cassava Ontology",
+      "hasDomain":[
+         "https://data.agroportal.lirmm.fr/categories/TRAITS"
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/ontologies/CO_334",
+      "@type":"http://data.bioontology.org/metadata/Ontology"
+   },
+   {
+      "name":"Flora Phenotype Ontology",
+      "hasDomain":[
+         "https://data.agroportal.lirmm.fr/categories/TRAITS",
+         "https://data.agroportal.lirmm.fr/categories/BIODIV"
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/ontologies/FLOPO",
+      "@type":"http://data.bioontology.org/metadata/Ontology"
+   },
+   {
+      "name":"Grapevine Anatomy Ontology",
+      "hasDomain":[
+         "https://data.agroportal.lirmm.fr/categories/PLANTDEV"
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/ontologies/GAO",
+      "@type":"http://data.bioontology.org/metadata/Ontology"
+   },
+   {
+      "name":"CIQUAL",
+      "hasDomain":[
+         "https://data.agroportal.lirmm.fr/categories/NUTRITION"
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/ontologies/CIQUAL",
+      "@type":"http://data.bioontology.org/metadata/Ontology"
+   },
+   {
+      "name":"SmartProducts Network of Ontologies Food Domain Model",
+      "hasDomain":[
+         "https://data.agroportal.lirmm.fr/categories/FOOD",
+         "https://data.agroportal.lirmm.fr/categories/HEALTH",
+         "https://data.agroportal.lirmm.fr/categories/NUTRITION"
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/ontologies/SPO-FDM",
+      "@type":"http://data.bioontology.org/metadata/Ontology"
+   },
+   {
+      "name":"Unambiguous Characterization of Sensory Experiences Ontology",
+      "hasDomain":[
+         "https://data.agroportal.lirmm.fr/categories/NUTRITION"
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/ontologies/UC_SENSE",
+      "@type":"http://data.bioontology.org/metadata/Ontology"
+   },
+   {
+      "name":"Cotton Ontology",
+      "hasDomain":[
+         "https://data.agroportal.lirmm.fr/categories/TRAITS"
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/ontologies/CO_358",
+      "@type":"http://data.bioontology.org/metadata/Ontology"
+   },
+   {
+      "name":"Isotopes for Food Science Ontology",
+      "hasDomain":[
+         "https://data.agroportal.lirmm.fr/categories/PHYS",
+         "https://data.agroportal.lirmm.fr/categories/FOOD"
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/ontologies/ISO-FOOD",
+      "@type":"http://data.bioontology.org/metadata/Ontology"
+   },
+   {
+      "name":"Environmental Conditions, Treatments and Exposures Ontology",
+      "hasDomain":[
+         "https://data.agroportal.lirmm.fr/categories/NATRES"
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/ontologies/ECTO",
+      "@type":"http://data.bioontology.org/metadata/Ontology"
+   },
+   {
+      "name":"AgrOntology",
+      "hasDomain":[
+         
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/ontologies/AGRONTOLOGY",
+      "@type":"http://data.bioontology.org/metadata/Ontology"
+   },
+   {
+      "name":"Ontology for the management of Wine Sensory analysis Descriptors",
+      "hasDomain":[
+         "https://data.agroportal.lirmm.fr/categories/TECH"
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/ontologies/OWSD",
+      "@type":"http://data.bioontology.org/metadata/Ontology"
+   },
+   {
+      "name":"BBCH-based Plant Phenological Description Ontology",
+      "hasDomain":[
+         "https://data.agroportal.lirmm.fr/categories/PLANTDEV"
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/ontologies/PPDO",
+      "@type":"http://data.bioontology.org/metadata/Ontology"
+   },
+   {
+      "name":"Agriculture and Forestry Ontology",
+      "hasDomain":[
+         "https://data.agroportal.lirmm.fr/categories/NATRES",
+         "https://data.agroportal.lirmm.fr/categories/TECH",
+         "https://data.agroportal.lirmm.fr/categories/FISHERIES",
+         "https://data.agroportal.lirmm.fr/categories/FORESTRY"
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/ontologies/AFO",
+      "@type":"http://data.bioontology.org/metadata/Ontology"
+   },
+   {
+      "name":"TAXREF-LD",
+      "hasDomain":[
+         "https://data.agroportal.lirmm.fr/categories/BIODIV",
+         "https://data.agroportal.lirmm.fr/categories/TAX"
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/ontologies/TAXREF-LD",
+      "@type":"http://data.bioontology.org/metadata/Ontology"
+   },
+   {
+      "name":"Wheat Trait and Phenotype Ontology",
+      "hasDomain":[
+         
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/ontologies/WHEATPHENOTYPE",
+      "@type":"http://data.bioontology.org/metadata/Ontology"
+   },
+   {
+      "name":"Agroecology Thesaurus",
+      "hasDomain":[
+         "https://data.agroportal.lirmm.fr/categories/FARMING"
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/ontologies/THESAE",
+      "@type":"http://data.bioontology.org/metadata/Ontology"
+   },
+   {
+      "name":"Plant Phenotype Experiment Ontology",
+      "hasDomain":[
+         "https://data.agroportal.lirmm.fr/categories/TRAITS"
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/ontologies/PPEO",
+      "@type":"http://data.bioontology.org/metadata/Ontology"
+   },
+   {
+      "name":"Plant Environment Ontology",
+      "hasDomain":[
+         "https://data.agroportal.lirmm.fr/categories/PLANT"
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/ontologies/EO",
+      "@type":"http://data.bioontology.org/metadata/Ontology"
+   },
+   {
+      "name":"Brassica Ontology",
+      "hasDomain":[
+         "https://data.agroportal.lirmm.fr/categories/TRAITS"
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/ontologies/CO_348",
+      "@type":"http://data.bioontology.org/metadata/Ontology"
+   },
+   {
+      "name":"Agricultural Experiments Ontology",
+      "hasDomain":[
+         "https://data.agroportal.lirmm.fr/categories/TECH"
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/ontologies/AEO",
+      "@type":"http://data.bioontology.org/metadata/Ontology"
+   },
+   {
+      "name":"Livestock Breed Ontology",
+      "hasDomain":[
+         "https://data.agroportal.lirmm.fr/categories/ANIMAL"
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/ontologies/LBO",
+      "@type":"http://data.bioontology.org/metadata/Ontology"
+   },
+   {
+      "name":"PO2/TransformON",
+      "hasDomain":[
+         "https://data.agroportal.lirmm.fr/categories/PHYS",
+         "https://data.agroportal.lirmm.fr/categories/FOOD",
+         "https://data.agroportal.lirmm.fr/categories/TECH",
+         "https://data.agroportal.lirmm.fr/categories/NUTRITION"
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/ontologies/TRANSFORMON",
+      "@type":"http://data.bioontology.org/metadata/Ontology"
+   },
+   {
+      "name":"Sunflower Ontology",
+      "hasDomain":[
+         "https://data.agroportal.lirmm.fr/categories/TRAITS"
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/ontologies/CO_359",
+      "@type":"http://data.bioontology.org/metadata/Ontology"
+   },
+   {
+      "name":"Animal Natural History and Life History Ontology",
+      "hasDomain":[
+         "https://data.agroportal.lirmm.fr/categories/ANIMAL",
+         "https://data.agroportal.lirmm.fr/categories/TAX"
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/ontologies/ADW",
+      "@type":"http://data.bioontology.org/metadata/Ontology"
+   },
+   {
+      "name":"DEMETER Agriculture Information Model",
+      "hasDomain":[
+         "https://data.agroportal.lirmm.fr/categories/FARMING"
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/ontologies/DEMETER-AIM",
+      "@type":"http://data.bioontology.org/metadata/Ontology"
+   },
+   {
+      "name":"Milk Oligosaccharide Thesaurus - HoloOLIGO project",
+      "hasDomain":[
+         "https://data.agroportal.lirmm.fr/categories/ANIMAL",
+         "https://data.agroportal.lirmm.fr/categories/NUTRITION"
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/ontologies/MILKOLIGO",
+      "@type":"http://data.bioontology.org/metadata/Ontology"
+   },
+   {
+      "name":"Multi-scale Multi-step ontology",
+      "hasDomain":[
+         "https://data.agroportal.lirmm.fr/categories/TECH"
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/ontologies/MS2O",
+      "@type":"http://data.bioontology.org/metadata/Ontology"
+   },
+   {
+      "name":"SAREF4ENVI: an extension of SAREF for the environment domain",
+      "hasDomain":[
+         
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/ontologies/SAREF4ENVI",
+      "@type":"http://data.bioontology.org/metadata/Ontology"
+   },
+   {
+      "name":"Global Agricultural Concept Scheme",
+      "hasDomain":[
+         "https://data.agroportal.lirmm.fr/categories/TECH"
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/ontologies/GACS",
+      "@type":"http://data.bioontology.org/metadata/Ontology"
+   },
+   {
+      "name":"Chickpea Ontology",
+      "hasDomain":[
+         "https://data.agroportal.lirmm.fr/categories/TRAITS"
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/ontologies/CO_338",
+      "@type":"http://data.bioontology.org/metadata/Ontology"
+   },
+   {
+      "name":"Apple Ontology",
+      "hasDomain":[
+         "https://data.agroportal.lirmm.fr/categories/TRAITS"
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/ontologies/CO_370",
+      "@type":"http://data.bioontology.org/metadata/Ontology"
+   },
+   {
+      "name":"WhatToMake Food Classification",
+      "hasDomain":[
+         "https://data.agroportal.lirmm.fr/categories/FOOD"
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/ontologies/WTM-FC",
+      "@type":"http://data.bioontology.org/metadata/Ontology"
+   },
+   {
+      "name":"Common Greenhouse Ontology",
+      "hasDomain":[
+         "https://data.agroportal.lirmm.fr/categories/FARMING",
+         "https://data.agroportal.lirmm.fr/categories/TECH"
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/ontologies/CGO",
+      "@type":"http://data.bioontology.org/metadata/Ontology"
+   },
+   {
+      "name":"Lentil Ontology",
+      "hasDomain":[
+         "https://data.agroportal.lirmm.fr/categories/TRAITS"
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/ontologies/CO_339",
+      "@type":"http://data.bioontology.org/metadata/Ontology"
+   },
+   {
+      "name":"Fish Ontology",
+      "hasDomain":[
+         "https://data.agroportal.lirmm.fr/categories/FISHERIES",
+         "https://data.agroportal.lirmm.fr/categories/TAX"
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/ontologies/FISHO",
+      "@type":"http://data.bioontology.org/metadata/Ontology"
+   },
+   {
+      "name":"Single-Nucleotide Polymorphism (SNP) Ontology",
+      "hasDomain":[
+         
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/ontologies/SNPO",
+      "@type":"http://data.bioontology.org/metadata/Ontology"
+   },
+   {
+      "name":"Plant Phenology Ontology",
+      "hasDomain":[
+         "https://data.agroportal.lirmm.fr/categories/TRAITS",
+         "https://data.agroportal.lirmm.fr/categories/PLANTDEV",
+         "https://data.agroportal.lirmm.fr/categories/PLANT"
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/ontologies/PPO",
+      "@type":"http://data.bioontology.org/metadata/Ontology"
+   },
+   {
+      "name":"Animal Trait Ontology for Livestock",
+      "hasDomain":[
+         "https://data.agroportal.lirmm.fr/categories/ANIMAL"
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/ontologies/ATOL",
+      "@type":"http://data.bioontology.org/metadata/Ontology"
+   },
+   {
+      "name":"BigDataGrapes Ontology",
+      "hasDomain":[
+         "https://data.agroportal.lirmm.fr/categories/TECH",
+         "https://data.agroportal.lirmm.fr/categories/NUTRITION"
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/ontologies/BDG",
+      "@type":"http://data.bioontology.org/metadata/Ontology"
+   },
+   {
+      "name":"Agricultural and Nutrition Technology Ontology",
+      "hasDomain":[
+         "https://data.agroportal.lirmm.fr/categories/FARMING",
+         "https://data.agroportal.lirmm.fr/categories/TECH",
+         "https://data.agroportal.lirmm.fr/categories/PLANT"
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/ontologies/ANT",
+      "@type":"http://data.bioontology.org/metadata/Ontology"
+   },
+   {
+      "name":"Sainfoin Ontology",
+      "hasDomain":[
+         "https://data.agroportal.lirmm.fr/categories/TRAITS"
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/ontologies/CO_369",
+      "@type":"http://data.bioontology.org/metadata/Ontology"
+   },
+   {
+      "name":"Thesaurus of Plant Characteristics",
+      "hasDomain":[
+         "https://data.agroportal.lirmm.fr/categories/TRAITS",
+         "https://data.agroportal.lirmm.fr/categories/BIODIV",
+         "https://data.agroportal.lirmm.fr/categories/PLANT"
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/ontologies/TOP",
+      "@type":"http://data.bioontology.org/metadata/Ontology"
+   },
+   {
+      "name":"FOODIE Core Ontology",
+      "hasDomain":[
+         "https://data.agroportal.lirmm.fr/categories/FARMING"
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/ontologies/FOODIE",
+      "@type":"http://data.bioontology.org/metadata/Ontology"
+   },
+   {
+      "name":"SmartProducts Network of Ontologies Food Taxonomy Model ",
+      "hasDomain":[
+         "https://data.agroportal.lirmm.fr/categories/FOOD",
+         "https://data.agroportal.lirmm.fr/categories/TAX"
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/ontologies/SPO-FTM",
+      "@type":"http://data.bioontology.org/metadata/Ontology"
+   },
+   {
+      "name":"Blueberry Ontology",
+      "hasDomain":[
+         "https://data.agroportal.lirmm.fr/categories/TRAITS"
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/ontologies/CO_371",
+      "@type":"http://data.bioontology.org/metadata/Ontology"
+   },
+   {
+      "name":"Irrigation Ontology",
+      "hasDomain":[
+         "https://data.agroportal.lirmm.fr/categories/FARMING",
+         "https://data.agroportal.lirmm.fr/categories/PLANTDEV",
+         "https://data.agroportal.lirmm.fr/categories/TECH"
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/ontologies/IRRIG",
+      "@type":"http://data.bioontology.org/metadata/Ontology"
+   },
+   {
+      "name":"Oat Ontology",
+      "hasDomain":[
+         "https://data.agroportal.lirmm.fr/categories/TRAITS"
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/ontologies/CO_350",
+      "@type":"http://data.bioontology.org/metadata/Ontology"
+   },
+   {
+      "name":"Population and Community Ontology",
+      "hasDomain":[
+         "https://data.agroportal.lirmm.fr/categories/BIODIV",
+         "https://data.agroportal.lirmm.fr/categories/TAX"
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/ontologies/PCO",
+      "@type":"http://data.bioontology.org/metadata/Ontology"
+   },
+   {
+      "name":"Sequence Types and Features Ontology",
+      "hasDomain":[
+         "https://data.agroportal.lirmm.fr/categories/GENPLANT"
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/ontologies/SO",
+      "@type":"http://data.bioontology.org/metadata/Ontology"
+   },
+   {
+      "name":"Corine Land Cover Nomenclature",
+      "hasDomain":[
+         "https://data.agroportal.lirmm.fr/categories/GEO",
+         "https://data.agroportal.lirmm.fr/categories/NATRES",
+         "https://data.agroportal.lirmm.fr/categories/TECH"
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/ontologies/CLC",
+      "@type":"http://data.bioontology.org/metadata/Ontology"
+   },
+   {
+      "name":"Ontology for Nutritional Studies",
+      "hasDomain":[
+         "https://data.agroportal.lirmm.fr/categories/NUTRITION"
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/ontologies/ONS",
+      "@type":"http://data.bioontology.org/metadata/Ontology"
+   },
+   {
+      "name":"Gene Ontology",
+      "hasDomain":[
+         
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/ontologies/GO",
+      "@type":"http://data.bioontology.org/metadata/Ontology"
+   },
+   {
+      "name":"Basic Formal Ontology",
+      "hasDomain":[
+         
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/ontologies/BFO",
+      "@type":"http://data.bioontology.org/metadata/Ontology"
+   },
+   {
+      "name":"Plant Diversity Ontology",
+      "hasDomain":[
+         "https://data.agroportal.lirmm.fr/categories/GEO",
+         "https://data.agroportal.lirmm.fr/categories/TRAITS",
+         "https://data.agroportal.lirmm.fr/categories/PLANTDEV",
+         "https://data.agroportal.lirmm.fr/categories/BIODIV",
+         "https://data.agroportal.lirmm.fr/categories/PLANT",
+         "https://data.agroportal.lirmm.fr/categories/GENPLANT",
+         "https://data.agroportal.lirmm.fr/categories/TAX"
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/ontologies/PDO_CAS",
+      "@type":"http://data.bioontology.org/metadata/Ontology"
+   },
+   {
+      "name":"Cowpea Ontology",
+      "hasDomain":[
+         "https://data.agroportal.lirmm.fr/categories/TRAITS"
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/ontologies/CO_340",
+      "@type":"http://data.bioontology.org/metadata/Ontology"
+   },
+   {
+      "name":"Crop Disease",
+      "hasDomain":[
+         "https://data.agroportal.lirmm.fr/categories/PLANT"
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/ontologies/CD",
+      "@type":"http://data.bioontology.org/metadata/Ontology"
+   },
+   {
+      "name":"Plant Experimental Conditions Ontology",
+      "hasDomain":[
+         "https://data.agroportal.lirmm.fr/categories/TRAITS",
+         "https://data.agroportal.lirmm.fr/categories/PLANT"
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/ontologies/PECO",
+      "@type":"http://data.bioontology.org/metadata/Ontology"
+   },
+   {
+      "name":"Sugar Kelp Ontology",
+      "hasDomain":[
+         "https://data.agroportal.lirmm.fr/categories/TRAITS"
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/ontologies/CO_360",
+      "@type":"http://data.bioontology.org/metadata/Ontology"
+   },
+   {
+      "name":"Plant Ontology",
+      "hasDomain":[
+         "https://data.agroportal.lirmm.fr/categories/PLANTDEV",
+         "https://data.agroportal.lirmm.fr/categories/BIODIV",
+         "https://data.agroportal.lirmm.fr/categories/PLANT",
+         "https://data.agroportal.lirmm.fr/categories/GENPLANT"
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/ontologies/PO",
+      "@type":"http://data.bioontology.org/metadata/Ontology"
+   }
+]

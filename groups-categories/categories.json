@@ -1,251 +1,458 @@
-{
-   "name":"Agriculture",
-   "acronym":"AGRICULTURE",
-   "description":"UNESCO Thesaurus: 598 Agriculture (http://vocabularies.unesco.org/thesaurus/concept598)",
-   "parentCategory":"https://data.agroportal.lirmm.fr/categories/AGRICULTURE"
-},
-{
-   "name":"Agricultural research",
-   "acronym":"AGRICULTURAL-RESEARCH",
-   "description":"UNESCO Thesaurus: 1818 Agricultural research (http://vocabularies.unesco.org/thesaurus/concept1818)",
-   "parentCategory":"https://data.agroportal.lirmm.fr/categories/AGRICULTURE"
-},    
-{
-   "name":"Agricultural engineering",
-   "acronym":"AGRICULTURAL-ENGINEERING",
-   "description":"UNESCO Thesaurus: 1753 Agricultural engineering (http://vocabularies.unesco.org/thesaurus/concept1753)",
-   "parentCategory":"https://data.agroportal.lirmm.fr/categories/TECH"
-},
-{
-   "name":"Animal products",
-   "acronym":"ANIMAL-PRODUCTS",
-   "description":"UNESCO Thesaurus: 1810 Animal products (http://vocabularies.unesco.org/thesaurus/concept1810)"
-},
-{
-   "name":"Animals",
-   "acronym":"ANIMALS",
-   "description":"UNESCO Thesaurus: 2380 (http://vocabularies.unesco.org/thesaurus/concept2380)",
-   "parentCategory":"https://data.agroportal.lirmm.fr/categories/ANIMAL"
-   "parentCategory":"https://data.agroportal.lirmm.fr/categories/TAX"
-},
-{
-   "name":"Biodiversity",
-   "acronym":"BIODIVERSITY",
-   "description":"UNESCO Thesaurus: 4011 (http://vocabularies.unesco.org/thesaurus/concept4011)",
-   "parentCategory":"https://data.agroportal.lirmm.fr/categories/BIODIV"
-},
-{
-   "name":"Ecology",
-   "acronym":"ECOLOGY",
-   "description":"UNESCO Thesaurus: 3964 (http://vocabularies.unesco.org/thesaurus/concept3964)",
-},
-{
-   "name":"Biotechnology",
-   "acronym":"BIOTECHNOLOGY",
-   "description":"UNESCO Thesaurus: 619 (http://vocabularies.unesco.org/thesaurus/concept619)",
-   "parentCategory":"https://data.agroportal.lirmm.fr/categories/TECH"
-},
-{
-   "name":"Agricultural genetics",
-   "acronym":"AGRICULTURAL-GENETICS",
-   "description":"UNESCO Thesaurus: 1718 (http://vocabularies.unesco.org/thesaurus/concept1718)",
-   "parentCategory":"https://data.agroportal.lirmm.fr/categories/TECH"
-   "parentCategory":"https://data.agroportal.lirmm.fr/categories/GENPLANT"
-},
-{
-   "name":"Cultivation",
-   "acronym":"CULTIVATION",
-   "description":"UNESCO Thesaurus: 1777 (http://vocabularies.unesco.org/thesaurus/concept1777)",
-},
-{
-   "name":"Fisheries",
-   "acronym":"FISHERIES",
-   "description":"UNESCO Thesaurus: 601 (http://vocabularies.unesco.org/thesaurus/concept601)",
-   "parentCategory":"https://data.agroportal.lirmm.fr/categories/FISHERIES"
-   "parentCategory":"https://data.agroportal.lirmm.fr/categories/TAX"
-},
-{
-   "name":"Aquaculture",
-   "acronym":"AQUACULTURE",
-   "description":"UNESCO Thesaurus: 1323 (http://vocabularies.unesco.org/thesaurus/concept1323)",
-   "parentCategory":"https://data.agroportal.lirmm.fr/categories/FISHERIES"
-},
-{
-   "name":"Food",
-   "acronym":"FOOD",
-   "description":"UNESCO Thesaurus: 1812 (http://vocabularies.unesco.org/thesaurus/concept1812)",
-   "parentCategory":"https://data.agroportal.lirmm.fr/categories/FOOD"
-},
-{
-   "name":"Nutrition",
-   "acronym":"NUTRITION",
-   "description":"UNESCO Thesaurus: 7996 (http://vocabularies.unesco.org/thesaurus/concept7996)",
-   "parentCategory":"https://data.agroportal.lirmm.fr/categories/NUTRITION"
-},
-{
-   "name":"Food security",
-   "acronym":"FOOD-SECURITY",
-   "description":"UNESCO Thesaurus: 1798 (http://vocabularies.unesco.org/thesaurus/concept1798)",
-   "parentCategory":"https://data.agroportal.lirmm.fr/categories/FOOD"
-},
-{
-   "name":"Forestry",
-   "acronym":"FORESTRY",
-   "description":"UNESCO Thesaurus: 603 (http://vocabularies.unesco.org/thesaurus/concept603)",
-   "parentCategory":"https://data.agroportal.lirmm.fr/categories/FORESTRY"
-},
-{
-   "name":"Forest products",
-   "acronym":"FOREST-PRODUCTS",
-   "description":"UNESCO Thesaurus: 1813 (http://vocabularies.unesco.org/thesaurus/concept1813)",
-   "parentCategory":"https://data.agroportal.lirmm.fr/categories/FORESTRY"
-},
-{
-   "name":"Government",
-   "acronym":"GOVERNMENT",
-   "description":"UNESCO Thesaurus: 564 (http://vocabularies.unesco.org/thesaurus/concept564)",
-   "parentCategory":"https://data.agroportal.lirmm.fr/categories/GOVT"
-},
-{
-   "name":"Law",
-   "acronym":"LAW",
-   "description":"UNESCO Thesaurus: 546 (http://vocabularies.unesco.org/thesaurus/concept546)",
-   "parentCategory":"https://data.agroportal.lirmm.fr/categories/GOVT"
-},
-{
-   "name":"Legislation",
-   "acronym":"LEGISLATION",
-   "description":"UNESCO Thesaurus: 13273 (http://vocabularies.unesco.org/thesaurus/concept13273)",
-   "parentCategory":"https://data.agroportal.lirmm.fr/categories/GOVT"
-},
-{
-   "name":"Health",
-   "acronym":"HEALTH",
-   "description":"UNESCO Thesaurus: 238 (http://vocabularies.unesco.org/thesaurus/concept238)",
-   "parentCategory":"https://data.agroportal.lirmm.fr/categories/HEALTH"
-},
-{
-   "name":"Pathology",
-   "acronym":"PATHOLOGY",
-   "description":"UNESCO Thesaurus: 251 (http://vocabularies.unesco.org/thesaurus/concept251)",
-   "parentCategory":"https://data.agroportal.lirmm.fr/categories/HEALTH"
-},
-{
-   "name":"Insects",
-   "acronym":"INSECTS",
-   "description":"UNESCO Thesaurus: 2461 (http://vocabularies.unesco.org/thesaurus/concept2461)",
-   "parentCategory":"https://data.agroportal.lirmm.fr/categories/ACRONYM-OF-PARENT-DONE-ABOVE-IF-ANY"
-   "parentCategory":"https://data.agroportal.lirmm.fr/categories/TAX"
-},
-{
-   "name":"Entomology",
-   "acronym":"ENTOMOLOGY",
-   "description":"UNESCO Thesaurus: 9990 (http://vocabularies.unesco.org/thesaurus/concept9990)",
-   "parentCategory":"https://data.agroportal.lirmm.fr/categories/ENTOM"
-   "parentCategory":"https://data.agroportal.lirmm.fr/categories/TAX"
-},
-{
-   "name":"Natural resources",
-   "acronym":"NATURAL-RESOURCES",
-   "description":"UNESCO Thesaurus: 213 (http://vocabularies.unesco.org/thesaurus/concept213)",
-   "parentCategory":"https://data.agroportal.lirmm.fr/categories/NATRES"
-},
-{
-   "name":"Environment",
-   "acronym":"ENVIRONMENT",
-   "description":"UNESCO Thesaurus: 195 (http://vocabularies.unesco.org/thesaurus/concept195)",
-   "parentCategory":"https://data.agroportal.lirmm.fr/categories/NATRES"
-},
-{
-   "name":"Earth",
-   "acronym":"EARTH",
-   "description":"UNESCO Thesaurus: 4083 (http://vocabularies.unesco.org/thesaurus/concept4083)",
-   "parentCategory":"https://data.agroportal.lirmm.fr/categories/GEO"
-      "parentCategory":"https://data.agroportal.lirmm.fr/categories/NATRES"
-},
-{
-   "name":"Physics",
-   "acronym":"PHYSICS",
-   "description":"UNESCO Thesaurus: 132 (http://vocabularies.unesco.org/thesaurus/concept132)",
-   "parentCategory":"https://data.agroportal.lirmm.fr/categories/PHYS"
-},
-{
-   "name":"Chemistry",
-   "acronym":"CHEMISTRY",
-   "description":"UNESCO Thesaurus: 143 (http://vocabularies.unesco.org/thesaurus/concept143)",
-   "parentCategory":"https://data.agroportal.lirmm.fr/categories/PHYS"
-},
-{
-   "name":"Plant physiology",
-   "acronym":"PLANT-PHYSIOLOGY",
-   "description":"UNESCO Thesaurus: 4262 (http://vocabularies.unesco.org/thesaurus/concept4262)",
-   "parentCategory":"https://data.agroportal.lirmm.fr/categories/TRAITS"
-   "parentCategory":"https://data.agroportal.lirmm.fr/categories/GENBREEDING"
-   "parentCategory":"https://data.agroportal.lirmm.fr/categories/PLANTDEV"
-   "parentCategory":"https://data.agroportal.lirmm.fr/categories/PLANT"
-   "parentCategory":"https://data.agroportal.lirmm.fr/categories/GENPLANT"
-   "parentCategory":"https://data.agroportal.lirmm.fr/categories/TAX"
-},
-{
-   "name":"Plant resources",
-   "acronym":"PLANT-RESOURCES",
-   "description":"UNESCO Thesaurus: 10394 (http://vocabularies.unesco.org/thesaurus/concept10394)",
-},
-{
-   "name":"Plant products",
-   "acronym":"PLANT-PRODUCTS",
-   "description":"UNESCO Thesaurus: 1814 (http://vocabularies.unesco.org/thesaurus/concept1814)",
-   "parentCategory":"https://data.agroportal.lirmm.fr/categories/PLANT"
-},
-{
-   "name":"Rural sociology",
-   "acronym":"RURAL-SOCIOLOGY",
-   "description":"UNESCO Thesaurus: 16135 (http://vocabularies.unesco.org/thesaurus/concept16135)",
-   "parentCategory":"https://data.agroportal.lirmm.fr/categories/RURAL"
-},
-{
-   "name":"Typology",
-   "acronym":"TYPOLOGY",
-   "description":"UNESCO Thesaurus: 16291 (http://vocabularies.unesco.org/thesaurus/concept16291)",   
-},
-####
-TEMPLATE
-{
-   "name":"Name",
-   "acronym":"NAME-IN-UPPERCASE-WITH-DASH",
-   "description":"UNESCO Thesaurus: ID NAME (http://vocabularies.unesco.org/thesaurus/conceptID)",
-   "parentCategory":"https://data.agroportal.lirmm.fr/categories/ACRONYM-OF-PARENT-DONE-ABOVE-IF-ANY"
-},
-####
-DONE
-Animals (http://vocabularies.unesco.org/thesaurus/concept2380)
-Biodiversity (http://vocabularies.unesco.org/thesaurus/concept4011)
-Ecology (http://vocabularies.unesco.org/thesaurus/concept3964)
-Biotechnology (http://vocabularies.unesco.org/thesaurus/concept619)
-Agricultural genetics (http://vocabularies.unesco.org/thesaurus/concept1718)
-Agriculture (http://vocabularies.unesco.org/thesaurus/concept598)
-Cultivation (http://vocabularies.unesco.org/thesaurus/concept1777)
-Fisheries (http://vocabularies.unesco.org/thesaurus/concept601)
-Aquaculture (http://vocabularies.unesco.org/thesaurus/concept1323)
-Food (http://vocabularies.unesco.org/thesaurus/concept1812)
-Nutrition (http://vocabularies.unesco.org/thesaurus/concept7996)
-Food security (http://vocabularies.unesco.org/thesaurus/concept1798)
-Forestry (http://vocabularies.unesco.org/thesaurus/concept603)
-Forest products (http://vocabularies.unesco.org/thesaurus/concept1813)
-Government (http://vocabularies.unesco.org/thesaurus/concept564)
-Law (http://vocabularies.unesco.org/thesaurus/concept546)
-Legislation (http://vocabularies.unesco.org/thesaurus/concept13273)
-Health (http://vocabularies.unesco.org/thesaurus/concept238)
-Pathology (http://vocabularies.unesco.org/thesaurus/concept251)
-Insects (http://vocabularies.unesco.org/thesaurus/concept2461)
-Entomology (http://vocabularies.unesco.org/thesaurus/concept9990)
-Natural resources (http://vocabularies.unesco.org/thesaurus/concept213)
-Environment (http://vocabularies.unesco.org/thesaurus/concept195)
-Earth (planet) (http://vocabularies.unesco.org/thesaurus/concept4083)
-Physics (http://vocabularies.unesco.org/thesaurus/concept132)
-Chemistry (http://vocabularies.unesco.org/thesaurus/concept143)
-Plant physiology (http://vocabularies.unesco.org/thesaurus/concept4262)
-Plant resources (http://vocabularies.unesco.org/thesaurus/concept10394)
-Plant products (http://vocabularies.unesco.org/thesaurus/concept1814)
-Rural sociology (http://vocabularies.unesco.org/thesaurus/concept16135)
-Typology (http://vocabularies.unesco.org/thesaurus/concept16291
+[
+   "-"{
+      "id":"https://data.agroportal.lirmm.fr/categories/AGRI",
+      "acronym":"AGRI",
+      "name":"Agriculture",
+      "description":"http://vocabularies.unesco.org/thesaurus/concept598",
+      "created":"2024-11-07T23:03:43.000+01:00",
+      "parentCategory":[
+         
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/categories/AGRI",
+      "@type":"http://data.bioontology.org/metadata/Category"
+   },
+   "-"{
+      "id":"https://data.agroportal.lirmm.fr/categories/PHYS",
+      "acronym":"PHYS",
+      "name":"Physics",
+      "description":"http://vocabularies.unesco.org/thesaurus/concept132",
+      "created":"2016-07-21T17:19:43.000+02:00",
+      "parentCategory":[
+         
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/categories/PHYS",
+      "@type":"http://data.bioontology.org/metadata/Category"
+   },
+   "-"{
+      "id":"https://data.agroportal.lirmm.fr/categories/GEO",
+      "acronym":"GEO",
+      "name":"Geography",
+      "description":"http://vocabularies.unesco.org/thesaurus/concept172",
+      "created":"2016-07-21T17:19:42.000+02:00",
+      "parentCategory":[
+         
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/categories/GEO",
+      "@type":"http://data.bioontology.org/metadata/Category"
+   },
+   "-"{
+      "id":"https://data.agroportal.lirmm.fr/categories/FOREST",
+      "acronym":"FOREST",
+      "name":"Forestry",
+      "description":"http://vocabularies.unesco.org/thesaurus/concept603",
+      "created":"2024-11-07T23:33:26.000+01:00",
+      "parentCategory":[
+         
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/categories/FOREST",
+      "@type":"http://data.bioontology.org/metadata/Category"
+   },
+   "-"{
+      "id":"https://data.agroportal.lirmm.fr/categories/NAT-RES",
+      "acronym":"NAT-RES",
+      "name":"Natural resources",
+      "description":"http://vocabularies.unesco.org/thesaurus/concept213",
+      "created":"2024-11-07T23:35:06.000+01:00",
+      "parentCategory":[
+         
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/categories/NAT-RES",
+      "@type":"http://data.bioontology.org/metadata/Category"
+   },
+   "-"{
+      "id":"https://data.agroportal.lirmm.fr/categories/PLANT-GEN",
+      "acronym":"PLANT-GEN",
+      "name":"Plant genetics",
+      "description":"http://vocabularies.unesco.org/thesaurus/concept1766",
+      "created":"2024-11-07T23:26:59.000+01:00",
+      "-""parentCategory":[
+         "https://data.agroportal.lirmm.fr/categories/BOTA"
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/categories/PLANT-GEN",
+      "@type":"http://data.bioontology.org/metadata/Category"
+   },
+   "-"{
+      "id":"https://data.agroportal.lirmm.fr/categories/CULT",
+      "acronym":"CULT",
+      "name":"Cultivation",
+      "description":"http://vocabularies.unesco.org/thesaurus/concept1777",
+      "created":"2024-11-07T23:02:01.000+01:00",
+      "-""parentCategory":[
+         "https://data.agroportal.lirmm.fr/categories/AGRO"
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/categories/CULT",
+      "@type":"http://data.bioontology.org/metadata/Category"
+   },
+   "-"{
+      "id":"https://data.agroportal.lirmm.fr/categories/HORTI",
+      "acronym":"HORTI",
+      "name":"Horticulture",
+      "description":"http://vocabularies.unesco.org/thesaurus/concept1865",
+      "created":"2024-11-07T23:02:57.000+01:00",
+      "-""parentCategory":[
+         "https://data.agroportal.lirmm.fr/categories/AGRO"
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/categories/HORTI",
+      "@type":"http://data.bioontology.org/metadata/Category"
+   },
+   "-"{
+      "id":"https://data.agroportal.lirmm.fr/categories/BOTA",
+      "acronym":"BOTA",
+      "name":"Botany",
+      "description":"http://vocabularies.unesco.org/thesaurus/concept230",
+      "created":"2024-11-07T23:18:54.000+01:00",
+      "parentCategory":[
+         
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/categories/BOTA",
+      "@type":"http://data.bioontology.org/metadata/Category"
+   },
+   "-"{
+      "id":"https://data.agroportal.lirmm.fr/categories/SOIL",
+      "acronym":"SOIL",
+      "name":"Soil sciences",
+      "description":"http://vocabularies.unesco.org/thesaurus/concept164",
+      "created":"2024-11-07T23:36:10.000+01:00",
+      "parentCategory":[
+         
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/categories/SOIL",
+      "@type":"http://data.bioontology.org/metadata/Category"
+   },
+   "-"{
+      "id":"https://data.agroportal.lirmm.fr/categories/FOOD",
+      "acronym":"FOOD",
+      "name":"Food",
+      "description":"http://vocabularies.unesco.org/thesaurus/concept1812",
+      "created":"2024-11-07T23:29:53.000+01:00",
+      "-""parentCategory":[
+         "https://data.agroportal.lirmm.fr/categories/AGRI-PROD"
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/categories/FOOD",
+      "@type":"http://data.bioontology.org/metadata/Category"
+   },
+   "-"{
+      "id":"https://data.agroportal.lirmm.fr/categories/LAW",
+      "acronym":"LAW",
+      "name":"Law",
+      "description":"http://vocabularies.unesco.org/thesaurus/concept546",
+      "created":"2024-11-07T23:34:18.000+01:00",
+      "parentCategory":[
+         
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/categories/LAW",
+      "@type":"http://data.bioontology.org/metadata/Category"
+   },
+   "-"{
+      "id":"https://data.agroportal.lirmm.fr/categories/TECH",
+      "acronym":"TECH",
+      "name":"Technology",
+      "description":"http://vocabularies.unesco.org/thesaurus/concept116",
+      "created":"2016-07-21T17:19:43.000+02:00",
+      "parentCategory":[
+         
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/categories/TECH",
+      "@type":"http://data.bioontology.org/metadata/Category"
+   },
+   "-"{
+      "id":"https://data.agroportal.lirmm.fr/categories/LIFE",
+      "acronym":"LIFE",
+      "name":"Life sciences",
+      "description":"http://vocabularies.unesco.org/thesaurus/concept231",
+      "created":"2024-11-07T23:34:42.000+01:00",
+      "parentCategory":[
+         
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/categories/LIFE",
+      "@type":"http://data.bioontology.org/metadata/Category"
+   },
+   "-"{
+      "id":"https://data.agroportal.lirmm.fr/categories/FOODTECH",
+      "acronym":"FOODTECH",
+      "name":"Food technology",
+      "description":"http://vocabularies.unesco.org/thesaurus/concept602",
+      "created":"2024-11-07T23:33:06.000+01:00",
+      "parentCategory":[
+         
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/categories/FOODTECH",
+      "@type":"http://data.bioontology.org/metadata/Category"
+   },
+   "-"{
+      "id":"https://data.agroportal.lirmm.fr/categories/BIO",
+      "acronym":"BIO",
+      "name":"Biology",
+      "description":"http://vocabularies.unesco.org/thesaurus/concept219",
+      "created":"2024-11-07T23:05:49.000+01:00",
+      "parentCategory":[
+         
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/categories/BIO",
+      "@type":"http://data.bioontology.org/metadata/Category"
+   },
+   "-"{
+      "id":"https://data.agroportal.lirmm.fr/categories/HEALTH",
+      "acronym":"HEALTH",
+      "name":"Health",
+      "description":"http://vocabularies.unesco.org/thesaurus/concept238",
+      "created":"2016-07-21T17:19:42.000+02:00",
+      "parentCategory":[
+         
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/categories/HEALTH",
+      "@type":"http://data.bioontology.org/metadata/Category"
+   },
+   "-"{
+      "id":"https://data.agroportal.lirmm.fr/categories/ECONOM",
+      "acronym":"ECONOM",
+      "name":"Economics",
+      "description":"http://vocabularies.unesco.org/thesaurus/concept585",
+      "created":"2024-11-07T23:31:15.000+01:00",
+      "parentCategory":[
+         
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/categories/ECONOM",
+      "@type":"http://data.bioontology.org/metadata/Category"
+   },
+   "-"{
+      "id":"https://data.agroportal.lirmm.fr/categories/ENTOM",
+      "acronym":"ENTOM",
+      "name":"Entomology",
+      "description":"http://vocabularies.unesco.org/thesaurus/concept9990",
+      "created":"2016-07-21T17:19:43.000+02:00",
+      "-""parentCategory":[
+         "https://data.agroportal.lirmm.fr/categories/ZOO"
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/categories/ENTOM",
+      "@type":"http://data.bioontology.org/metadata/Category"
+   },
+   "-"{
+      "id":"https://data.agroportal.lirmm.fr/categories/ZOO",
+      "acronym":"ZOO",
+      "name":"Zoology",
+      "description":"http://vocabularies.unesco.org/thesaurus/concept235",
+      "created":"2024-11-07T23:37:11.000+01:00",
+      "parentCategory":[
+         
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/categories/ZOO",
+      "@type":"http://data.bioontology.org/metadata/Category"
+   },
+   "-"{
+      "id":"https://data.agroportal.lirmm.fr/categories/OBS",
+      "acronym":"OBS",
+      "name":"Observation",
+      "description":"http://vocabularies.unesco.org/thesaurus/concept9616",
+      "created":"2024-11-07T23:35:49.000+01:00",
+      "parentCategory":[
+         
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/categories/OBS",
+      "@type":"http://data.bioontology.org/metadata/Category"
+   },
+   "-"{
+      "id":"https://data.agroportal.lirmm.fr/categories/HUSB",
+      "acronym":"HUSB",
+      "name":"Animal husbandry",
+      "description":"http://vocabularies.unesco.org/thesaurus/concept600",
+      "created":"2024-11-07T23:04:55.000+01:00",
+      "parentCategory":[
+         
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/categories/HUSB",
+      "@type":"http://data.bioontology.org/metadata/Category"
+   },
+   "-"{
+      "id":"https://data.agroportal.lirmm.fr/categories/AGRO",
+      "acronym":"AGRO",
+      "name":"Agronomy",
+      "description":"http://vocabularies.unesco.org/thesaurus/concept599",
+      "created":"2024-11-07T23:01:34.000+01:00",
+      "parentCategory":[
+         
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/categories/AGRO",
+      "@type":"http://data.bioontology.org/metadata/Category"
+   },
+   "-"{
+      "id":"https://data.agroportal.lirmm.fr/categories/BIODIV",
+      "acronym":"BIODIV",
+      "name":"Biodiversity",
+      "description":"http://vocabularies.unesco.org/thesaurus/concept4011",
+      "created":"2018-02-05T15:48:08.000+01:00",
+      "-""parentCategory":[
+         "https://data.agroportal.lirmm.fr/categories/ECOSYS"
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/categories/BIODIV",
+      "@type":"http://data.bioontology.org/metadata/Category"
+   },
+   "-"{
+      "id":"https://data.agroportal.lirmm.fr/categories/ANIM",
+      "acronym":"ANIM",
+      "name":"Animals",
+      "description":"http://vocabularies.unesco.org/thesaurus/concept2380",
+      "created":"2024-11-07T23:36:30.000+01:00",
+      "-""parentCategory":[
+         "https://data.agroportal.lirmm.fr/categories/ZOO"
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/categories/ANIM",
+      "@type":"http://data.bioontology.org/metadata/Category"
+   },
+   "-"{
+      "id":"https://data.agroportal.lirmm.fr/categories/AGRI-PROD",
+      "acronym":"AGRI-PROD",
+      "name":"Agricultural products",
+      "description":"http://vocabularies.unesco.org/thesaurus/concept634",
+      "created":"2024-11-07T23:28:47.000+01:00",
+      "parentCategory":[
+         
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/categories/AGRI-PROD",
+      "@type":"http://data.bioontology.org/metadata/Category"
+   },
+   "-"{
+      "id":"https://data.agroportal.lirmm.fr/categories/ECOSYS",
+      "acronym":"ECOSYS",
+      "name":"Ecosystems",
+      "description":"http://vocabularies.unesco.org/thesaurus/concept211",
+      "created":"2024-11-07T23:31:44.000+01:00",
+      "parentCategory":[
+         
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/categories/ECOSYS",
+      "@type":"http://data.bioontology.org/metadata/Category"
+   },
+   "-"{
+      "id":"https://data.agroportal.lirmm.fr/categories/PLANT-PHY",
+      "acronym":"PLANT-PHY",
+      "name":"Plant physiology",
+      "description":"http://vocabularies.unesco.org/thesaurus/concept4262",
+      "created":"2024-11-07T23:27:48.000+01:00",
+      "-""parentCategory":[
+         "https://data.agroportal.lirmm.fr/categories/BOTA"
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/categories/PLANT-PHY",
+      "@type":"http://data.bioontology.org/metadata/Category"
+   },
+   "-"{
+      "id":"https://data.agroportal.lirmm.fr/categories/PLANT",
+      "acronym":"PLANT",
+      "name":"Plant products",
+      "description":"http://vocabularies.unesco.org/thesaurus/concept1813",
+      "created":"2016-07-22T16:39:42.000+02:00",
+      "-""parentCategory":[
+         "https://data.agroportal.lirmm.fr/categories/AGRI-PROD"
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/categories/PLANT",
+      "@type":"http://data.bioontology.org/metadata/Category"
+   },
+   "-"{
+      "id":"https://data.agroportal.lirmm.fr/categories/AG-ENG",
+      "acronym":"AG-ENG",
+      "name":"Agricultural engineering",
+      "description":"http://vocabularies.unesco.org/thesaurus/concept1753",
+      "created":"2024-11-07T23:00:10.000+01:00",
+      "-""parentCategory":[
+         "https://data.agroportal.lirmm.fr/categories/AGRI"
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/categories/AG-ENG",
+      "@type":"http://data.bioontology.org/metadata/Category"
+   },
+   "-"{
+      "id":"https://data.agroportal.lirmm.fr/categories/AG-RES",
+      "acronym":"AG-RES",
+      "name":"Agricultural research",
+      "description":"http://vocabularies.unesco.org/thesaurus/concept1818",
+      "created":"2024-11-07T23:01:10.000+01:00",
+      "-""parentCategory":[
+         "https://data.agroportal.lirmm.fr/categories/AGRI"
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/categories/AG-RES",
+      "@type":"http://data.bioontology.org/metadata/Category"
+   },
+   "-"{
+      "id":"https://data.agroportal.lirmm.fr/categories/ENV",
+      "acronym":"ENV",
+      "name":"Environment",
+      "description":"http://vocabularies.unesco.org/thesaurus/concept195",
+      "created":"2024-11-07T23:32:24.000+01:00",
+      "parentCategory":[
+         
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/categories/ENV",
+      "@type":"http://data.bioontology.org/metadata/Category"
+   },
+   "-"{
+      "id":"https://data.agroportal.lirmm.fr/categories/PLANT-DIS",
+      "acronym":"PLANT-DIS",
+      "name":"Plant diseases",
+      "description":"http://vocabularies.unesco.org/thesaurus/concept4260",
+      "created":"2024-11-07T23:26:31.000+01:00",
+      "-""parentCategory":[
+         "https://data.agroportal.lirmm.fr/categories/BOTA"
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/categories/PLANT-DIS",
+      "@type":"http://data.bioontology.org/metadata/Category"
+   },
+   "-"{
+      "id":"https://data.agroportal.lirmm.fr/categories/GOVT",
+      "acronym":"GOVT",
+      "name":"Government",
+      "description":"http://vocabularies.unesco.org/thesaurus/concept564",
+      "created":"2016-07-21T17:19:42.000+02:00",
+      "parentCategory":[
+         
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/categories/GOVT",
+      "@type":"http://data.bioontology.org/metadata/Category"
+   },
+   "-"{
+      "id":"https://data.agroportal.lirmm.fr/categories/GENE",
+      "acronym":"GENE",
+      "name":"Genetics",
+      "description":"http://vocabularies.unesco.org/thesaurus/concept223",
+      "created":"2024-11-07T23:33:43.000+01:00",
+      "parentCategory":[
+         
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/categories/GENE",
+      "@type":"http://data.bioontology.org/metadata/Category"
+   },
+   "-"{
+      "id":"https://data.agroportal.lirmm.fr/categories/FISH",
+      "acronym":"FISH",
+      "name":"Fisheries",
+      "description":"http://vocabularies.unesco.org/thesaurus/concept601",
+      "created":"2024-11-07T23:32:45.000+01:00",
+      "parentCategory":[
+         
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/categories/FISH",
+      "@type":"http://data.bioontology.org/metadata/Category"
+   },
+   "-"{
+      "id":"https://data.agroportal.lirmm.fr/categories/RURAL",
+      "acronym":"RURAL",
+      "name":"Rural development",
+      "description":"http://vocabularies.unesco.org/thesaurus/concept446",
+      "created":"2016-07-21T17:19:43.000+02:00",
+      "parentCategory":[
+         
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/categories/RURAL",
+      "@type":"http://data.bioontology.org/metadata/Category"
+   },
+   "-"{
+      "id":"https://data.agroportal.lirmm.fr/categories/NUT",
+      "acronym":"NUT",
+      "name":"Nutrition",
+      "description":"http://vocabularies.unesco.org/thesaurus/concept7996",
+      "created":"2024-11-07T23:35:31.000+01:00",
+      "parentCategory":[
+         
+      ],
+      "@id":"https://data.agroportal.lirmm.fr/categories/NUT",
+      "@type":"http://data.bioontology.org/metadata/Category"
+   }
+]
