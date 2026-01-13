@@ -1,10 +1,10 @@
 # 🗽Terms & Conditions
 
-**Version 1. March 2024. \n Authored by AgroPortal management and maintenance team**
+**Version 1.1 January 2026 \n Authored by AgroPortal management and maintenance team**
 
 # **AgroPortal Terms and Conditions (English)**
 
-**Last updated March 15, 2024.**
+**Last updated January 13, 2026.**
 
 ## **General Introduction**
 
@@ -196,12 +196,17 @@ Contributors will be asked to re-accept the conditions of use to continue using 
 
 The personal data collected by AgroPortal when creating or having an account are:
 
+* Date of creation of the account;
+* Role (usually ‘LIBRARIAN’);
 * First name, last name, email address;
-* ORCID identifier;
-* GitHub Login;
-* Whether or not to subscribe to the users’ mailing list.
+* ORCID and GitHub identifier;
+* List of ontology subscriptions (i.e., the ones “followed”) by the user account;
+* List of custom ontologies (i.e., the ones “selected for display” by the user account);
+* List of created ontologies ((i.e., the ones “submitted”  by the user account);
+* Whether or not to subscribe to the users’ mailing list;
+* Date of last login.
 
-Creating an account results in the creation of a 'login' and an API key allowing to use AgroPortal’s API (with the same rights associated with the user account). The creation of an account is associated with registration on the AgroPortal user mailing list unless the contributor wishes not to be. A contributor can access and modify their information via a dedicated “Account Settings” page. This page is not public and cannot be referenced or identified by external search engines.
+Creating an account results in the creation of a 'login' (username) and an API key allowing to use AgroPortal’s API (with the same rights associated with the user account). The creation of an account is associated with registration on the AgroPortal user mailing list unless the contributor wishes not to be. A contributor can access and modify their information via a dedicated “Account Settings” page. This page is not public and cannot be referenced or identified by external search engines. However, the contributor information (except email address, date of creation, role, custom ontologies, subscription to mailing list, date of last login) is considered public and shall be used by AgroPortal services. For example, the list of ontology subscriptions can be displayed to show anyone which AgroPortal contributor is following a specific ontology. Basic contributor information (names and identifiers) are to be used to publicly identify the author of a comment or note on an ontology.
 
 
 The AgroPortal management and maintenance team undertakes to take all necessary measures to guarantee the security and confidentiality of the information of contributors holding an account. This information is never communicated to third parties, except in cases provided for by law. The purpose of these data is the implementation and proper functioning of AgroPortal as well as the processing of requests made via the assistance form. The main purpose of contributor accounts is to allow the posting of ontologies (or content) or access to ontologies (or content) for restricted use. This purpose is linked to the main mission of sharing AgroPortal ontologies. Apart from the software, the recipients of personal data are the members of the AgroPortal management and maintenance team who contribute to the implementation of AgroPortal and the services offered.
@@ -213,7 +218,7 @@ AgroPortal may also record and collect information relating to the use of the se
 All personal data are stored on AgroPortal servers. The retention period of personal data is:
 
 * Less than a year for data collected in visitor logs.
-* For life for information in a contributor's account as long as the account is active. A contributor can nevertheless request the deletion of his account at any time.
+* For life for information in a contributor's account as long as the account is active. A contributor can nevertheless request the deletion of his account at any time. The AgroPortal team can also decide the deletion of an account.
 
 
 As a user, you have a right of access, rectification, opposition for legitimate reasons, limitation and erasure relating to all data concerning you under the conditions provided for by law no. 78-17 of January 6, 1978 relating to computing, files and freedoms and by the general data protection regulation no. 2016/679. You have the right to give general or specific instructions relating to the conservation, erasure and communication after your death of personal data concerning you in accordance with articles 32-I-6° and 40-1 of the law. of January 6, 1978 amended. You also have the right to lodge a complaint with a supervisory authority such as the Commission Nationale de l’Informatique et des Libertés (CNIL).
@@ -489,12 +494,19 @@ Le contributeur sera invité à accepter de nouveau les conditions d’utilisati
 
 Les données à caractère personnel recueillies par le AgroPortal lors de la création ou possession d’un compte sont les suivantes:
 
-* Prénom, nom, adresse email;
-* Identifiant ORCID;
-* Login GitHub;
-* Inscription ou non sur la liste de diffusion des utilisateurs.
+* Date de création du compte ;
+* Rôle (généralement « LIBRARIAN ») ;
+* Prénom, nom, adresse électronique ;
+* Identifiant ORCID et identifiant GitHub ;
+* Liste des abonnements à des ontologies (c’est-à-dire celles « suivies ») par le compte utilisateur ;
+* Liste des ontologies personnalisées (c’est-à-dire celles « sélectionnées pour l’affichage ») par le compte utilisateur ;
+* Liste des ontologies créées (c’est-à-dire celles « soumises ») par le compte utilisateur ;
+* Inscription ou non sur la liste de diffusion des utilisateurs ;
+* Date de la dernière connexion.
 
-La création d’un compte donne lieu à la création d’un ‘login’ et d'une clé’ d’API (APIkey) qui permet d’utiliser l’API d’AgroPortal (avec les mêmes droits associés au compte utilisateur). La création d’un compte est associée à l’inscription sur la liste de diffusions utilisateurs d’AgroPortal sauf si le contributeur souhaite ne pas l’être. Un contributeur peut accéder et modifier les informations le concernant via une page dédiée “Paramètres du compte”. Cette page n'est pas publique et ne peut pas être référencée ou identifiée par des moteurs de recherches externes.
+  \
+
+La création d’un compte donne lieu à la création d’un ‘login’ (username) et d'une clé’ d’API (APIkey) qui permet d’utiliser l’API d’AgroPortal (avec les mêmes droits associés au compte utilisateur). La création d’un compte est associée à l’inscription sur la liste de diffusions utilisateurs d’AgroPortal sauf si le contributeur souhaite ne pas l’être. Un contributeur peut accéder et modifier les informations le concernant via une page dédiée “Paramètres du compte”. Cette page n'est pas publique et ne peut pas être référencée ou identifiée par des moteurs de recherches externes. En revanche, les informations relatives au contributeur (à l’exception de l’adresse électronique, de la date de création, du rôle, des ontologies personnalisées, de l’abonnement à la liste de diffusion et de la date de dernière connexion) sont considérées comme publiques et peuvent être utilisées par les services d’AgroPortal. Par exemple, la liste des abonnements à des ontologies peut être affichée afin d’indiquer quels contributeurs d’AgroPortal suivent une ontologie donnée. Les informations de base sur les contributeurs (noms et identifiants) sont utilisées pour identifier publiquement l’auteur d’un commentaire ou d’une note sur une ontologie.
 
 
 L’équipe de gestion et maintenance d’AgroPortal s'engage à prendre toutes les mesures nécessaires permettant de garantir la sécurité et la confidentialité des informations des contributeurs titulaires d’un compte. Ces informations ne sont jamais communiquées à des tiers, en dehors des cas prévus par la loi. Ces données ont pour finalité la mise en œuvre et le bon fonctionnement du portail AgroPortal ainsi que le traitement des demandes effectuées via le formulaire d'assistance. Les comptes des contributeurs ont pour principale finalité de permettre de déposer des ontologies (ou du contenu) ou d’accéder à des ontologies (ou du contenu) à usage restreint. Cette finalité est liée à la mission principale de partage des ontologies d’AgroPortal. Hormis le logiciel, les destinataires des données à caractère personnel sont les membres de l’équipe de gestion et maintenance d’AgroPortal qui concourent à la mise en œuvre du portail AgroPortal et des services qui y sont proposés.
@@ -506,7 +518,7 @@ AgroPortal peut également enregistrer et collecter des informations relatives �
 Toutes les données à caractère personnel sont stockées sur les serveurs d’AgroPortal. La durée de conservation des données à caractère personnel est de :
 
 * Moins de deux ans pour les données collectées dans les logs visiteurs.
-* A vie pour les informations d’un compte d’un contributeur tant que le compte est actif. Un contributeur peut néanmoins demander à tout moment la suppression de son compte.
+* A vie pour les informations d’un compte d’un contributeur tant que le compte est actif. Un contributeur peut néanmoins demander à tout moment la suppression de son compte. L’équipe AgroPortal peut aussi décider de la suppression d’un compte.
 
 
 En tant qu’utilisateur, vous disposez d’un droit d’accès, de rectification, d’opposition pour motifs légitimes, de limitation et d’effacement relativement à l’ensemble des données vous concernant dans les conditions prévues par la loi n°78-17 du 6 janvier 1978 relative à l’informatique, aux fichiers et aux libertés et par le règlement général relatif à la protection des données n° 2016/679. Vous disposez du droit de donner des directives générales ou particulières relatives à la conservation, à l'effacement et à la communication après votre décès des données à caractère personnel vous concernant conformément aux articles 32-I-6° et 40-1 de la loi du 6 janvier 1978 modifiée. Vous disposez par ailleurs du droit d’introduire une réclamation auprès d’une autorité de contrôle telle que la Commission Nationale de l’Informatique et des Libertés (CNIL).
