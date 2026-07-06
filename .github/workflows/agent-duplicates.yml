@@ -1,0 +1,37 @@
+name: Weekly agent duplicate detection
+
+# Runs every Monday morning, scans AgroPortal agents for duplicates and
+# opens / refreshes / closes a tracking issue accordingly.
+# Manual runs are possible via the "Run workflow" button (workflow_dispatch).
+
+on:
+  schedule:
+    - cron: '0 6 * * 1'   # Every Monday at 06:00 UTC (~07:00–08:00 Paris)
+  workflow_dispatch:
+
+permissions:
+  issues: write
+  contents: read
+
+concurrency:
+  group: agent-duplicates
+  cancel-in-progress: false
+
+jobs:
+  detect-duplicates:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Detect duplicate agents and manage the tracking issue
+        env:
+          GH_TOKEN: ${{ github.token }}
+          GITHUB_REPOSITORY: ${{ github.repository }}
+          AGROPORTAL_API_KEY: ${{ secrets.AGROPORTAL_API_KEY }}
+        run: python scripts/check_agent_duplicates.py
